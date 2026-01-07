@@ -1,50 +1,65 @@
 import streamlit as st
 import json
 import random
+import os
 
-# ---------------- LOAD DATA ----------------
+# ---------------- PAGE CONFIG ----------------
+st.set_page_config(page_title="Adaptive English Test", layout="centered")
+
+# ---------------- LOAD QUESTIONS ----------------
 @st.cache_data
 def load_questions():
-    with open("data/english.json", "r", encoding="utf-8") as f:
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(base_dir, "data", "english.json")
+
+    with open(file_path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 questions = load_questions()
 
-# Group by difficulty
+# ---------------- GROUP BY DIFFICULTY ----------------
 easy_qs = [q for q in questions if q["difficulty"] == "Easy"]
 medium_qs = [q for q in questions if q["difficulty"] == "Medium"]
 hard_qs = [q for q in questions if q["difficulty"] == "Hard"]
 
-# ---------------- SESSION STATE ----------------
+# ---------------- SESSION STATE INIT ----------------
 if "current_q" not in st.session_state:
     st.session_state.current_q = random.choice(easy_qs)
     st.session_state.difficulty = "Easy"
     st.session_state.score = 0
-    st.session_state.asked = set()
     st.session_state.total = 0
+    st.session_state.used_ids = set()
 
-# ---------------- HELPER ----------------
+# ---------------- HELPER FUNCTION ----------------
 def get_next_question(correct):
     if st.session_state.difficulty == "Easy":
-        return random.choice(medium_qs if correct else easy_qs)
+        pool = medium_qs if correct else easy_qs
+        st.session_state.difficulty = "Medium" if correct else "Easy"
 
-    if st.session_state.difficulty == "Medium":
-        return random.choice(hard_qs if correct else easy_qs)
+    elif st.session_state.difficulty == "Medium":
+        pool = hard_qs if correct else easy_qs
+        st.session_state.difficulty = "Hard" if correct else "Easy"
 
-    if st.session_state.difficulty == "Hard":
-        return random.choice(hard_qs if correct else medium_qs)
+    else:  # Hard
+        pool = hard_qs if correct else medium_qs
+        st.session_state.difficulty = "Hard" if correct else "Medium"
+
+    remaining = [q for q in pool if q["id"] not in st.session_state.used_ids]
+    return random.choice(remaining if remaining else pool)
 
 # ---------------- UI ----------------
 st.title("🧠 Adaptive English Test")
-st.write(f"**Current Difficulty:** {st.session_state.difficulty}")
+
+st.write(f"**Difficulty:** {st.session_state.difficulty}")
 st.write(f"**Score:** {st.session_state.score} / {st.session_state.total}")
 
 q = st.session_state.current_q
+st.session_state.used_ids.add(q["id"])
 
 st.subheader(q["question"])
 
 choice = st.radio(
-    "Choose an answer:",
+    "Choose the correct answer:",
     list(q["options"].keys()),
     format_func=lambda x: f"{x}. {q['options'][x]}"
 )
@@ -55,20 +70,11 @@ if st.button("Submit Answer"):
     correct = choice == q["correct_answer"]
 
     if correct:
-        st.success("Correct ✅")
+        st.success("✅ Correct")
         st.session_state.score += 1
     else:
-        st.error(f"Wrong ❌ | Correct: {q['correct_answer']}")
+        st.error(f"❌ Wrong | Correct Answer: {q['correct_answer']}")
         st.info(q["explanation"])
 
-    # Update difficulty
-    if st.session_state.difficulty == "Easy":
-        st.session_state.difficulty = "Medium" if correct else "Easy"
-    elif st.session_state.difficulty == "Medium":
-        st.session_state.difficulty = "Hard" if correct else "Easy"
-    else:
-        st.session_state.difficulty = "Hard" if correct else "Medium"
-
-    # Next question
     st.session_state.current_q = get_next_question(correct)
     st.rerun()
