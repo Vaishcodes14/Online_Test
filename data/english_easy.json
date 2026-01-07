@@ -1,0 +1,5619 @@
+  {
+    "id": 1,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ to school every day.",
+    "options": {
+      "A": "go",
+      "B": "goes",
+      "C": "going",
+      "D": "gone"
+    },
+    "correct_answer": "B",
+    "explanation": "The subject 'she' is third person singular, so the verb takes 's' and becomes 'goes'."
+  },
+  {
+    "id": 2,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ a book right now.",
+    "options": {
+      "A": "read",
+      "B": "reads",
+      "C": "is reading",
+      "D": "has read"
+    },
+    "correct_answer": "C",
+    "explanation": "The phrase 'right now' shows present continuous tense, which uses 'is reading'."
+  },
+  {
+    "id": 3,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct plural form of 'child'.",
+    "options": {
+      "A": "childs",
+      "B": "childes",
+      "C": "children",
+      "D": "childrens"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Children’ is an irregular plural form and does not follow normal plural rules."
+  },
+  {
+    "id": 4,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "I ___ coffee every morning.",
+    "options": {
+      "A": "drink",
+      "B": "drinks",
+      "C": "drinking",
+      "D": "drank"
+    },
+    "correct_answer": "A",
+    "explanation": "With the subject 'I', the base form of the verb 'drink' is used in present simple."
+  },
+  {
+    "id": 5,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is the opposite of 'hot'?",
+    "options": {
+      "A": "warm",
+      "B": "cold",
+      "C": "heat",
+      "D": "boil"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Cold’ means low temperature and is the direct opposite of ‘hot’."
+  },
+  {
+    "id": 6,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "They ___ playing in the park.",
+    "options": {
+      "A": "is",
+      "B": "was",
+      "C": "are",
+      "D": "has"
+    },
+    "correct_answer": "C",
+    "explanation": "‘They’ is a plural subject, so the correct helping verb is ‘are’."
+  },
+  {
+    "id": 7,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct spelling.",
+    "options": {
+      "A": "Beautifull",
+      "B": "Beautyful",
+      "C": "Beautiful",
+      "D": "Beutiful"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Beautiful’ is spelled with one ‘l’ and follows standard English spelling rules."
+  },
+  {
+    "id": 8,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "We ___ TV in the evening.",
+    "options": {
+      "A": "watch",
+      "B": "watches",
+      "C": "watching",
+      "D": "watched"
+    },
+    "correct_answer": "A",
+    "explanation": "The subject ‘we’ uses the base form of the verb in present simple tense."
+  },
+  {
+    "id": 9,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is a synonym of 'happy'?",
+    "options": {
+      "A": "sad",
+      "B": "angry",
+      "C": "joyful",
+      "D": "tired"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Joyful’ means feeling pleasure or happiness and matches the meaning of ‘happy’."
+  },
+  {
+    "id": 10,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ not like milk.",
+    "options": {
+      "A": "do",
+      "B": "does",
+      "C": "did",
+      "D": "done"
+    },
+    "correct_answer": "B",
+    "explanation": "For present simple negative sentences with ‘she’, the auxiliary verb ‘does’ is used."
+  },
+  {
+    "id": 11,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct article: ___ apple a day keeps the doctor away.",
+    "options": {
+      "A": "A",
+      "B": "An",
+      "C": "The",
+      "D": "No article"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Apple’ starts with a vowel sound, so the correct article is ‘an’."
+  },
+  {
+    "id": 12,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ finished his homework.",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "is",
+      "D": "was"
+    },
+    "correct_answer": "A",
+    "explanation": "With third person singular subjects, present perfect tense uses ‘has’."
+  },
+  {
+    "id": 13,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a noun?",
+    "options": {
+      "A": "run",
+      "B": "happy",
+      "C": "book",
+      "D": "quickly"
+    },
+    "correct_answer": "C",
+    "explanation": "A noun names a person, place, or thing, and ‘book’ is a naming word."
+  },
+  {
+    "id": 14,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "The sun ___ in the east.",
+    "options": {
+      "A": "rise",
+      "B": "rises",
+      "C": "rising",
+      "D": "rose"
+    },
+    "correct_answer": "B",
+    "explanation": "General truths are expressed in present simple tense using ‘rises’."
+  },
+  {
+    "id": 15,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the opposite of 'big'.",
+    "options": {
+      "A": "large",
+      "B": "huge",
+      "C": "small",
+      "D": "tall"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Small’ means not large in size and is the opposite of ‘big’."
+  },
+  {
+    "id": 16,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She is ___ honest girl.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Honest’ begins with a vowel sound, so the article ‘an’ is correct."
+  },
+  {
+    "id": 17,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which sentence is correct?",
+    "options": {
+      "A": "He don’t like tea.",
+      "B": "He doesn’t likes tea.",
+      "C": "He doesn’t like tea.",
+      "D": "He don’t likes tea."
+    },
+    "correct_answer": "C",
+    "explanation": "With ‘does not’, the main verb stays in base form, so ‘like’ is correct."
+  },
+  {
+    "id": 18,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "My father ___ in a bank.",
+    "options": {
+      "A": "work",
+      "B": "works",
+      "C": "working",
+      "D": "worked"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Father’ is third person singular, so the verb takes ‘s’ and becomes ‘works’."
+  },
+  {
+    "id": 19,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the past tense of 'go'?",
+    "options": {
+      "A": "goed",
+      "B": "gone",
+      "C": "went",
+      "D": "going"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Went’ is the correct past tense form of the verb ‘go’."
+  },
+  {
+    "id": 20,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct preposition: The cat is ___ the table.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "by"
+    },
+    "correct_answer": "B",
+    "explanation": "‘On’ is used to show something resting on a surface like a table."
+  },
+  {
+    "id": 21,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word describes an action?",
+    "options": {
+      "A": "quick",
+      "B": "happiness",
+      "C": "run",
+      "D": "blue"
+    },
+    "correct_answer": "C",
+    "explanation": "An action word is a verb, and ‘run’ shows an action."
+  },
+  {
+    "id": 22,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ already eaten lunch.",
+    "options": {
+      "A": "have",
+      "B": "has",
+      "C": "is",
+      "D": "was"
+    },
+    "correct_answer": "B",
+    "explanation": "Present perfect tense with ‘she’ uses the helping verb ‘has’."
+  },
+  {
+    "id": 23,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct sentence.",
+    "options": {
+      "A": "I am agree with you.",
+      "B": "I agreeing with you.",
+      "C": "I agree with you.",
+      "D": "I agreed with you am."
+    },
+    "correct_answer": "C",
+    "explanation": "‘Agree’ is a verb and does not need ‘am’ before it."
+  },
+  {
+    "id": 24,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the synonym of 'fast'?",
+    "options": {
+      "A": "slow",
+      "B": "quick",
+      "C": "late",
+      "D": "weak"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Quick’ has the same meaning as ‘fast’ and describes speed."
+  },
+  {
+    "id": 25,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "The dog ___ loudly at night.",
+    "options": {
+      "A": "bark",
+      "B": "barks",
+      "C": "barking",
+      "D": "barked"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Dog’ is singular, so the verb in present simple form becomes ‘barks’."
+  }
+,
+  {
+    "id": 26,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ very hard for the exam.",
+    "options": {
+      "A": "study",
+      "B": "studies",
+      "C": "studying",
+      "D": "studied"
+    },
+    "correct_answer": "B",
+    "explanation": "With third person singular subjects like 'she', the verb takes an 's' in present simple tense."
+  },
+  {
+    "id": 27,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is an adjective?",
+    "options": {
+      "A": "slowly",
+      "B": "beauty",
+      "C": "happy",
+      "D": "run"
+    },
+    "correct_answer": "C",
+    "explanation": "An adjective describes a noun, and 'happy' describes a person's feeling."
+  },
+  {
+    "id": 28,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "We ___ finished our work.",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "is",
+      "D": "was"
+    },
+    "correct_answer": "B",
+    "explanation": "The subject 'we' uses 'have' in the present perfect tense."
+  },
+  {
+    "id": 29,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct question form.",
+    "options": {
+      "A": "Where you are going?",
+      "B": "Where are you going?",
+      "C": "Where going you are?",
+      "D": "Where are going you?"
+    },
+    "correct_answer": "B",
+    "explanation": "In English questions, the auxiliary verb comes before the subject."
+  },
+  {
+    "id": 30,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the opposite of 'early'?",
+    "options": {
+      "A": "fast",
+      "B": "soon",
+      "C": "late",
+      "D": "quick"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Late’ means not early and is the correct opposite of ‘early’."
+  },
+  {
+    "id": 31,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "The birds ___ in the sky.",
+    "options": {
+      "A": "fly",
+      "B": "flies",
+      "C": "flying",
+      "D": "flew"
+    },
+    "correct_answer": "A",
+    "explanation": "‘Birds’ is a plural subject, so the base form 'fly' is used."
+  },
+  {
+    "id": 32,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word means 'very small'?",
+    "options": {
+      "A": "tiny",
+      "B": "huge",
+      "C": "wide",
+      "D": "tall"
+    },
+    "correct_answer": "A",
+    "explanation": "‘Tiny’ means extremely small in size."
+  },
+  {
+    "id": 33,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ not understand the question.",
+    "options": {
+      "A": "do",
+      "B": "does",
+      "C": "did",
+      "D": "done"
+    },
+    "correct_answer": "B",
+    "explanation": "Present simple negative sentences with 'he' use the auxiliary verb 'does'."
+  },
+  {
+    "id": 34,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct sentence.",
+    "options": {
+      "A": "She has 20 years.",
+      "B": "She is 20 years old.",
+      "C": "She have 20 years.",
+      "D": "She is 20 year."
+    },
+    "correct_answer": "B",
+    "explanation": "Age in English is expressed using 'is' and 'years old'."
+  },
+  {
+    "id": 35,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the plural of 'box'?",
+    "options": {
+      "A": "boxs",
+      "B": "boxes",
+      "C": "boxies",
+      "D": "boxen"
+    },
+    "correct_answer": "B",
+    "explanation": "Nouns ending in 'x' form plurals by adding 'es', making 'boxes'."
+  },
+  {
+    "id": 36,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ to music every night.",
+    "options": {
+      "A": "listen",
+      "B": "listens",
+      "C": "listening",
+      "D": "listened"
+    },
+    "correct_answer": "B",
+    "explanation": "With third person singular subjects, verbs in present simple take 's'."
+  },
+  {
+    "id": 37,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct preposition: He is good ___ math.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "with"
+    },
+    "correct_answer": "C",
+    "explanation": "The correct preposition used with skills or subjects is 'at'."
+  },
+  {
+    "id": 38,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the past tense of 'eat'?",
+    "options": {
+      "A": "eated",
+      "B": "ate",
+      "C": "eaten",
+      "D": "eating"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Ate’ is the correct past tense form of the verb ‘eat’."
+  },
+  {
+    "id": 39,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a pronoun?",
+    "options": {
+      "A": "table",
+      "B": "she",
+      "C": "write",
+      "D": "blue"
+    },
+    "correct_answer": "B",
+    "explanation": "A pronoun replaces a noun, and 'she' is used in place of a female noun."
+  },
+  {
+    "id": 40,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "They ___ late yesterday.",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "was"
+    },
+    "correct_answer": "B",
+    "explanation": "‘They’ is plural, so the past tense form of 'be' is 'were'."
+  },
+  {
+    "id": 41,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct sentence.",
+    "options": {
+      "A": "I have seen him yesterday.",
+      "B": "I saw him yesterday.",
+      "C": "I see him yesterday.",
+      "D": "I have see him yesterday."
+    },
+    "correct_answer": "B",
+    "explanation": "Specific past time expressions like 'yesterday' use simple past tense."
+  },
+  {
+    "id": 42,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the synonym of 'angry'?",
+    "options": {
+      "A": "calm",
+      "B": "happy",
+      "C": "mad",
+      "D": "kind"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Mad’ can mean angry and is a common synonym."
+  },
+  {
+    "id": 43,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ her keys on the table.",
+    "options": {
+      "A": "leave",
+      "B": "leaves",
+      "C": "leaving",
+      "D": "left"
+    },
+    "correct_answer": "B",
+    "explanation": "This sentence describes a habitual action, so present simple 'leaves' is correct."
+  },
+  {
+    "id": 44,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which sentence is in present continuous tense?",
+    "options": {
+      "A": "She cooks dinner.",
+      "B": "She is cooking dinner.",
+      "C": "She cooked dinner.",
+      "D": "She has cooked dinner."
+    },
+    "correct_answer": "B",
+    "explanation": "Present continuous tense uses 'is/are' plus the verb ending in 'ing'."
+  },
+  {
+    "id": 45,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct word: He runs very ___.",
+    "options": {
+      "A": "quick",
+      "B": "quickly",
+      "C": "quicker",
+      "D": "quickness"
+    },
+    "correct_answer": "B",
+    "explanation": "Adverbs describe verbs, and 'quickly' correctly describes how he runs."
+  },
+  {
+    "id": 46,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the opposite of 'clean'?",
+    "options": {
+      "A": "pure",
+      "B": "dirty",
+      "C": "neat",
+      "D": "fresh"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Dirty’ means not clean and is the correct opposite."
+  },
+  {
+    "id": 47,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ a letter to her friend.",
+    "options": {
+      "A": "write",
+      "B": "writes",
+      "C": "writing",
+      "D": "wrote"
+    },
+    "correct_answer": "B",
+    "explanation": "For third person singular subjects, the present simple verb takes 's'."
+  },
+  {
+    "id": 48,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct conjunction: I was tired ___ I went to bed.",
+    "options": {
+      "A": "but",
+      "B": "because",
+      "C": "so",
+      "D": "and"
+    },
+    "correct_answer": "C",
+    "explanation": "‘So’ shows a result, explaining why the speaker went to bed."
+  },
+  {
+    "id": 49,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a verb?",
+    "options": {
+      "A": "sleep",
+      "B": "bed",
+      "C": "pillow",
+      "D": "night"
+    },
+    "correct_answer": "A",
+    "explanation": "A verb shows an action or state, and ‘sleep’ is an action word."
+  },
+  {
+    "id": 50,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "The train ___ at 6 AM every day.",
+    "options": {
+      "A": "arrive",
+      "B": "arrives",
+      "C": "arriving",
+      "D": "arrived"
+    },
+    "correct_answer": "B",
+    "explanation": "For scheduled events and third person singular subjects, present simple 'arrives' is used."
+  }
+,
+  {
+    "id": 51,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ very happy today.",
+    "options": {
+      "A": "look",
+      "B": "looks",
+      "C": "looking",
+      "D": "looked"
+    },
+    "correct_answer": "B",
+    "explanation": "With third person singular subjects like 'she', the verb takes an 's' in present simple tense."
+  },
+  {
+    "id": 52,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word means the same as 'begin'?",
+    "options": {
+      "A": "end",
+      "B": "start",
+      "C": "close",
+      "D": "finish"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Start’ is a synonym of ‘begin’ and means to commence something."
+  },
+  {
+    "id": 53,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ his phone at home yesterday.",
+    "options": {
+      "A": "forget",
+      "B": "forgets",
+      "C": "forgot",
+      "D": "forgetting"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Yesterday’ shows past time, so the simple past tense ‘forgot’ is correct."
+  },
+  {
+    "id": 54,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct sentence.",
+    "options": {
+      "A": "There is many people here.",
+      "B": "There are many people here.",
+      "C": "There was many people here.",
+      "D": "There has many people here."
+    },
+    "correct_answer": "B",
+    "explanation": "‘People’ is plural, so the correct structure is ‘there are’."
+  },
+  {
+    "id": 55,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the comparative form of 'tall'?",
+    "options": {
+      "A": "taller",
+      "B": "tallest",
+      "C": "more tall",
+      "D": "most tall"
+    },
+    "correct_answer": "A",
+    "explanation": "For short adjectives, the comparative form is made by adding ‘er’."
+  },
+  {
+    "id": 56,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ speak French very well.",
+    "options": {
+      "A": "can",
+      "B": "could",
+      "C": "must",
+      "D": "should"
+    },
+    "correct_answer": "A",
+    "explanation": "‘Can’ is used to express ability in the present tense."
+  },
+  {
+    "id": 57,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is an adverb?",
+    "options": {
+      "A": "quick",
+      "B": "quickly",
+      "C": "quickness",
+      "D": "quicker"
+    },
+    "correct_answer": "B",
+    "explanation": "Adverbs describe verbs, and ‘quickly’ tells how an action is done."
+  },
+  {
+    "id": 58,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "The movie was very ___.",
+    "options": {
+      "A": "interest",
+      "B": "interesting",
+      "C": "interested",
+      "D": "interestingly"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Interesting’ describes things that create interest, such as movies or books."
+  },
+  {
+    "id": 59,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ his teeth every morning.",
+    "options": {
+      "A": "brush",
+      "B": "brushes",
+      "C": "brushing",
+      "D": "brushed"
+    },
+    "correct_answer": "B",
+    "explanation": "With third person singular subjects, verbs in present simple take ‘s’."
+  },
+  {
+    "id": 60,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct preposition: She is afraid ___ dogs.",
+    "options": {
+      "A": "from",
+      "B": "with",
+      "C": "of",
+      "D": "at"
+    },
+    "correct_answer": "C",
+    "explanation": "The adjective ‘afraid’ is followed by the preposition ‘of’."
+  },
+  {
+    "id": 61,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the opposite of 'strong'?",
+    "options": {
+      "A": "powerful",
+      "B": "weak",
+      "C": "healthy",
+      "D": "brave"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Weak’ means lacking strength and is the opposite of ‘strong’."
+  },
+  {
+    "id": 62,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "They ___ watching TV when I called them.",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "was"
+    },
+    "correct_answer": "B",
+    "explanation": "Past continuous tense with plural subjects uses ‘were’."
+  },
+  {
+    "id": 63,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word means 'not correct'?",
+    "options": {
+      "A": "right",
+      "B": "true",
+      "C": "wrong",
+      "D": "exact"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Wrong’ means incorrect or not accurate."
+  },
+  {
+    "id": 64,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ a doctor.",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "be"
+    },
+    "correct_answer": "C",
+    "explanation": "With singular subjects like ‘she’, the correct form of ‘be’ is ‘is’."
+  },
+  {
+    "id": 65,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct word: I am ___ than my brother.",
+    "options": {
+      "A": "tall",
+      "B": "taller",
+      "C": "tallest",
+      "D": "most tall"
+    },
+    "correct_answer": "B",
+    "explanation": "Comparisons between two people use the comparative form ‘taller’."
+  },
+  {
+    "id": 66,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ to the gym every evening.",
+    "options": {
+      "A": "go",
+      "B": "goes",
+      "C": "going",
+      "D": "went"
+    },
+    "correct_answer": "B",
+    "explanation": "For third person singular subjects, the verb in present simple takes ‘s’."
+  },
+  {
+    "id": 67,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the synonym of 'small'?",
+    "options": {
+      "A": "tiny",
+      "B": "huge",
+      "C": "large",
+      "D": "big"
+    },
+    "correct_answer": "A",
+    "explanation": "‘Tiny’ means very small and is a synonym of ‘small’."
+  },
+  {
+    "id": 68,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ her bag on the chair.",
+    "options": {
+      "A": "put",
+      "B": "puts",
+      "C": "putting",
+      "D": "putted"
+    },
+    "correct_answer": "B",
+    "explanation": "In present simple tense with ‘she’, the verb form ‘puts’ is correct."
+  },
+  {
+    "id": 69,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which sentence is correct?",
+    "options": {
+      "A": "He can sings well.",
+      "B": "He can sing well.",
+      "C": "He can singing well.",
+      "D": "He can sang well."
+    },
+    "correct_answer": "B",
+    "explanation": "Modal verbs like ‘can’ are followed by the base form of the verb."
+  },
+  {
+    "id": 70,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the plural of 'man'?",
+    "options": {
+      "A": "mans",
+      "B": "mens",
+      "C": "men",
+      "D": "man"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Men’ is the irregular plural form of the noun ‘man’."
+  },
+  {
+    "id": 71,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "The baby is ___ now.",
+    "options": {
+      "A": "sleep",
+      "B": "slept",
+      "C": "sleeping",
+      "D": "sleeps"
+    },
+    "correct_answer": "C",
+    "explanation": "Present continuous tense is used to describe actions happening now."
+  },
+  {
+    "id": 72,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct word: She speaks ___.",
+    "options": {
+      "A": "soft",
+      "B": "softly",
+      "C": "softness",
+      "D": "softer"
+    },
+    "correct_answer": "B",
+    "explanation": "Adverbs like ‘softly’ describe how an action is performed."
+  },
+  {
+    "id": 73,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word means 'very good'?",
+    "options": {
+      "A": "bad",
+      "B": "excellent",
+      "C": "poor",
+      "D": "weak"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Excellent’ is used to describe something of very high quality."
+  },
+  {
+    "id": 74,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ late for school yesterday.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "were"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Yesterday’ indicates past tense, and ‘he’ takes ‘was’."
+  },
+  {
+    "id": 75,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct sentence.",
+    "options": {
+      "A": "I am knowing the answer.",
+      "B": "I know the answer.",
+      "C": "I am know the answer.",
+      "D": "I knew the answer am."
+    },
+    "correct_answer": "B",
+    "explanation": "‘Know’ is a stative verb and is normally used in simple present tense."
+  }
+,
+  {
+    "id": 76,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ a new dress yesterday.",
+    "options": {
+      "A": "buy",
+      "B": "buys",
+      "C": "bought",
+      "D": "buying"
+    },
+    "correct_answer": "C",
+    "explanation": "The word ‘yesterday’ shows past time, so the simple past tense ‘bought’ is correct."
+  },
+  {
+    "id": 77,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a conjunction?",
+    "options": {
+      "A": "and",
+      "B": "quick",
+      "C": "slowly",
+      "D": "table"
+    },
+    "correct_answer": "A",
+    "explanation": "A conjunction joins words or sentences, and ‘and’ is a common conjunction."
+  },
+  {
+    "id": 78,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ very tired after work.",
+    "options": {
+      "A": "feel",
+      "B": "feels",
+      "C": "feeling",
+      "D": "felt"
+    },
+    "correct_answer": "B",
+    "explanation": "With third person singular subjects, the present simple verb takes an ‘s’."
+  },
+  {
+    "id": 79,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the opposite of 'happy'?",
+    "options": {
+      "A": "joyful",
+      "B": "glad",
+      "C": "sad",
+      "D": "excited"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Sad’ describes unhappiness and is the opposite of ‘happy’."
+  },
+  {
+    "id": 80,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct sentence.",
+    "options": {
+      "A": "She don’t understand.",
+      "B": "She doesn’t understands.",
+      "C": "She doesn’t understand.",
+      "D": "She don’t understands."
+    },
+    "correct_answer": "C",
+    "explanation": "With ‘does not’, the main verb remains in its base form ‘understand’."
+  },
+  {
+    "id": 81,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "The children ___ playing outside.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "has"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Children’ is plural, so the correct helping verb is ‘are’."
+  },
+  {
+    "id": 82,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word means 'not heavy'?",
+    "options": {
+      "A": "hard",
+      "B": "strong",
+      "C": "light",
+      "D": "thick"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Light’ is used to describe something that is not heavy."
+  },
+  {
+    "id": 83,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ her homework already.",
+    "options": {
+      "A": "finish",
+      "B": "finishes",
+      "C": "has finished",
+      "D": "finished"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Already’ is commonly used with present perfect tense, which uses ‘has finished’."
+  },
+  {
+    "id": 84,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the plural of 'foot'?",
+    "options": {
+      "A": "foots",
+      "B": "feets",
+      "C": "feet",
+      "D": "foot"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Feet’ is the irregular plural form of the noun ‘foot’."
+  },
+  {
+    "id": 85,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ speak loudly in the library.",
+    "options": {
+      "A": "must",
+      "B": "should",
+      "C": "should not",
+      "D": "can"
+    },
+    "correct_answer": "C",
+    "explanation": "Libraries require silence, so ‘should not’ correctly expresses advice or rule."
+  },
+  {
+    "id": 86,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct word: She is ___ than me.",
+    "options": {
+      "A": "more smart",
+      "B": "smartest",
+      "C": "smarter",
+      "D": "most smart"
+    },
+    "correct_answer": "C",
+    "explanation": "Short adjectives form comparatives by adding ‘er’, making ‘smarter’."
+  },
+  {
+    "id": 87,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a preposition?",
+    "options": {
+      "A": "under",
+      "B": "run",
+      "C": "happy",
+      "D": "quickly"
+    },
+    "correct_answer": "A",
+    "explanation": "A preposition shows position or relationship, and ‘under’ does this."
+  },
+  {
+    "id": 88,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "They ___ lunch at 1 PM every day.",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "having",
+      "D": "had"
+    },
+    "correct_answer": "B",
+    "explanation": "With plural subjects like ‘they’, the present simple form ‘have’ is correct."
+  },
+  {
+    "id": 89,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the synonym of 'clean'?",
+    "options": {
+      "A": "dirty",
+      "B": "messy",
+      "C": "neat",
+      "D": "wet"
+    },
+    "correct_answer": "C",
+    "explanation": "‘Neat’ describes something clean and well arranged."
+  },
+  {
+    "id": 90,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ very well in exams.",
+    "options": {
+      "A": "do",
+      "B": "does",
+      "C": "doing",
+      "D": "did"
+    },
+    "correct_answer": "B",
+    "explanation": "With ‘she’, the correct present simple auxiliary form is ‘does’."
+  },
+  {
+    "id": 91,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct sentence.",
+    "options": {
+      "A": "I am tired because I worked late.",
+      "B": "I am tired because I work late.",
+      "C": "I tired because I worked late.",
+      "D": "I am tired because I working late."
+    },
+    "correct_answer": "A",
+    "explanation": "The sentence correctly uses past tense to explain the reason for tiredness."
+  },
+  {
+    "id": 92,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word means 'fast'?",
+    "options": {
+      "A": "slow",
+      "B": "quick",
+      "C": "late",
+      "D": "weak"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Quick’ is a synonym of ‘fast’ and describes speed."
+  },
+  {
+    "id": 93,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ his car every Sunday.",
+    "options": {
+      "A": "wash",
+      "B": "washes",
+      "C": "washing",
+      "D": "washed"
+    },
+    "correct_answer": "B",
+    "explanation": "With third person singular subjects, verbs in present simple take ‘s’."
+  },
+  {
+    "id": 94,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the opposite of 'open'?",
+    "options": {
+      "A": "close",
+      "B": "closed",
+      "C": "shut",
+      "D": "lock"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Closed’ is the standard opposite form used with ‘open’."
+  },
+  {
+    "id": 95,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ a song when I entered.",
+    "options": {
+      "A": "sings",
+      "B": "is singing",
+      "C": "was singing",
+      "D": "sang"
+    },
+    "correct_answer": "C",
+    "explanation": "Past continuous tense describes an ongoing past action interrupted by another event."
+  },
+  {
+    "id": 96,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which sentence is a question?",
+    "options": {
+      "A": "She is coming today.",
+      "B": "Is she coming today?",
+      "C": "She coming today?",
+      "D": "She is coming today?"
+    },
+    "correct_answer": "B",
+    "explanation": "Questions in English invert the auxiliary verb and subject."
+  },
+  {
+    "id": 97,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the plural of 'tooth'?",
+    "options": {
+      "A": "tooths",
+      "B": "teeth",
+      "C": "toothes",
+      "D": "tooth"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Teeth’ is the irregular plural form of the noun ‘tooth’."
+  },
+  {
+    "id": 98,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ finished the work yet.",
+    "options": {
+      "A": "has not",
+      "B": "have not",
+      "C": "is not",
+      "D": "was not"
+    },
+    "correct_answer": "A",
+    "explanation": "With third person singular subjects, present perfect negative uses ‘has not’."
+  },
+  {
+    "id": 99,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a noun?",
+    "options": {
+      "A": "beautiful",
+      "B": "beauty",
+      "C": "beautifully",
+      "D": "beautify"
+    },
+    "correct_answer": "B",
+    "explanation": "‘Beauty’ is a noun that names a quality or state."
+  },
+  {
+    "id": 100,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "The shop ___ at 9 AM every day.",
+    "options": {
+      "A": "open",
+      "B": "opens",
+      "C": "opening",
+      "D": "opened"
+    },
+    "correct_answer": "B",
+    "explanation": "For scheduled actions with singular subjects, present simple ‘opens’ is used."
+  }
+    
+  {
+    "id": 101,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ to the market every day.",
+    "options": {
+      "A": "go",
+      "B": "goes",
+      "C": "going",
+      "D": "gone"
+    },
+    "correct_answer": "B",
+    "explanation": "With third person singular subjects like 'she', the present simple verb takes an 's'."
+  },
+  {
+    "id": 102,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ very happy today.",
+    "options": {
+      "A": "look",
+      "B": "looks",
+      "C": "looking",
+      "D": "looked"
+    },
+    "correct_answer": "B",
+    "explanation": "In present simple tense, third person singular subjects require verbs ending with 's'."
+  },
+  {
+    "id": 103,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct article: ___ umbrella is broken.",
+    "options": {
+      "A": "A",
+      "B": "An",
+      "C": "The",
+      "D": "No article"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'umbrella' begins with a vowel sound, so the article 'an' is used."
+  },
+  {
+    "id": 104,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "They ___ cricket in the park.",
+    "options": {
+      "A": "plays",
+      "B": "play",
+      "C": "playing",
+      "D": "played"
+    },
+    "correct_answer": "B",
+    "explanation": "Plural subjects like 'they' use the base form of the verb in present simple tense."
+  },
+  {
+    "id": 105,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the opposite of 'tall'?",
+    "options": {
+      "A": "short",
+      "B": "big",
+      "C": "long",
+      "D": "high"
+    },
+    "correct_answer": "A",
+    "explanation": "The word 'short' describes low height and is the opposite of 'tall'."
+  },
+  {
+    "id": 106,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ cooking dinner now.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "were"
+    },
+    "correct_answer": "A",
+    "explanation": "Present continuous tense uses 'is' with singular subjects like 'she'."
+  },
+  {
+    "id": 107,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a noun?",
+    "options": {
+      "A": "run",
+      "B": "happy",
+      "C": "teacher",
+      "D": "quickly"
+    },
+    "correct_answer": "C",
+    "explanation": "A noun names a person, place, or thing, and 'teacher' names a person."
+  },
+  {
+    "id": 108,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ his bag on the table.",
+    "options": {
+      "A": "keep",
+      "B": "keeps",
+      "C": "keeping",
+      "D": "kept"
+    },
+    "correct_answer": "B",
+    "explanation": "With third person singular subjects, the present simple verb ends with 's'."
+  },
+  {
+    "id": 109,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the plural of 'pen'?",
+    "options": {
+      "A": "pens",
+      "B": "penes",
+      "C": "penses",
+      "D": "pen"
+    },
+    "correct_answer": "A",
+    "explanation": "Most nouns form their plural by adding 's', so 'pen' becomes 'pens'."
+  },
+  {
+    "id": 110,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ very kind to animals.",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "were",
+      "D": "be"
+    },
+    "correct_answer": "B",
+    "explanation": "With singular subjects like 'she', the correct present form of 'be' is 'is'."
+  },
+  {
+    "id": 111,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct sentence.",
+    "options": {
+      "A": "He don't like coffee.",
+      "B": "He doesn't like coffee.",
+      "C": "He not like coffee.",
+      "D": "He doesn't likes coffee."
+    },
+    "correct_answer": "B",
+    "explanation": "With 'does not', the main verb stays in base form, making this sentence correct."
+  },
+  {
+    "id": 112,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the past tense of 'walk'?",
+    "options": {
+      "A": "walk",
+      "B": "walking",
+      "C": "walked",
+      "D": "walks"
+    },
+    "correct_answer": "C",
+    "explanation": "Regular verbs form their past tense by adding 'ed', so 'walk' becomes 'walked'."
+  },
+  {
+    "id": 113,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is an adjective?",
+    "options": {
+      "A": "slowly",
+      "B": "beauty",
+      "C": "beautiful",
+      "D": "run"
+    },
+    "correct_answer": "C",
+    "explanation": "Adjectives describe nouns, and 'beautiful' describes appearance or quality."
+  },
+  {
+    "id": 114,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "They ___ late last night.",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "were",
+      "D": "was"
+    },
+    "correct_answer": "C",
+    "explanation": "For plural subjects in past tense, the correct form of 'be' is 'were'."
+  },
+  {
+    "id": 115,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the synonym of 'fast'?",
+    "options": {
+      "A": "slow",
+      "B": "quick",
+      "C": "late",
+      "D": "weak"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'quick' has the same meaning as 'fast' and describes speed."
+  },
+  {
+    "id": 116,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ to music every night.",
+    "options": {
+      "A": "listen",
+      "B": "listens",
+      "C": "listening",
+      "D": "listened"
+    },
+    "correct_answer": "B",
+    "explanation": "In present simple tense, third person singular subjects take verbs ending with 's'."
+  },
+  {
+    "id": 117,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct preposition: The cat is ___ the chair.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "to"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'on' is used to show something resting on a surface."
+  },
+  {
+    "id": 118,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word means 'very small'?",
+    "options": {
+      "A": "huge",
+      "B": "tiny",
+      "C": "long",
+      "D": "wide"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'tiny' means extremely small in size and is easy to understand."
+  },
+  {
+    "id": 119,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ his wallet yesterday.",
+    "options": {
+      "A": "lose",
+      "B": "loses",
+      "C": "lost",
+      "D": "losing"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'yesterday' indicates past tense, so 'lost' is the correct verb form."
+  },
+  {
+    "id": 120,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a pronoun?",
+    "options": {
+      "A": "book",
+      "B": "she",
+      "C": "write",
+      "D": "red"
+    },
+    "correct_answer": "B",
+    "explanation": "Pronouns replace nouns, and 'she' is used instead of a female noun."
+  },
+  {
+    "id": 121,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the opposite of 'clean'?",
+    "options": {
+      "A": "neat",
+      "B": "dirty",
+      "C": "fresh",
+      "D": "pure"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'dirty' means not clean and is the opposite of 'clean'."
+  },
+  {
+    "id": 122,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ already eaten lunch.",
+    "options": {
+      "A": "have",
+      "B": "has",
+      "C": "is",
+      "D": "was"
+    },
+    "correct_answer": "B",
+    "explanation": "Present perfect tense with third person singular subjects uses 'has'."
+  },
+  {
+    "id": 123,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is an adverb?",
+    "options": {
+      "A": "quick",
+      "B": "quickly",
+      "C": "quicker",
+      "D": "quickness"
+    },
+    "correct_answer": "B",
+    "explanation": "Adverbs describe verbs or actions, and 'quickly' shows how something is done."
+  },
+  {
+    "id": 124,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "The shop ___ at 9 AM every day.",
+    "options": {
+      "A": "open",
+      "B": "opens",
+      "C": "opening",
+      "D": "opened"
+    },
+    "correct_answer": "B",
+    "explanation": "Daily schedules use present simple tense, and 'opens' matches the singular subject."
+  },
+  {
+    "id": 125,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the plural of 'child'?",
+    "options": {
+      "A": "childs",
+      "B": "children",
+      "C": "childes",
+      "D": "child"
+    },
+    "correct_answer": "B",
+    "explanation": "The noun 'child' has an irregular plural form, which is 'children'."
+  },
+  {
+    "id": 126,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ very well in exams.",
+    "options": {
+      "A": "do",
+      "B": "does",
+      "C": "doing",
+      "D": "did"
+    },
+    "correct_answer": "B",
+    "explanation": "With third person singular subjects, the correct present simple form is 'does'."
+  },
+  {
+    "id": 127,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which sentence is a question?",
+    "options": {
+      "A": "She is coming today.",
+      "B": "Is she coming today?",
+      "C": "She coming today?",
+      "D": "She is coming today?"
+    },
+    "correct_answer": "B",
+    "explanation": "Questions are formed by placing the auxiliary verb before the subject."
+  },
+  {
+    "id": 128,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the past tense of 'eat'?",
+    "options": {
+      "A": "eated",
+      "B": "ate",
+      "C": "eaten",
+      "D": "eating"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'eat' has an irregular past tense, which is 'ate'."
+  },
+  {
+    "id": 129,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ her keys on the table.",
+    "options": {
+      "A": "leave",
+      "B": "leaves",
+      "C": "leaving",
+      "D": "left"
+    },
+    "correct_answer": "B",
+    "explanation": "This sentence describes a habitual action, so present simple tense is used."
+  },
+  {
+    "id": 130,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word means 'not heavy'?",
+    "options": {
+      "A": "strong",
+      "B": "hard",
+      "C": "light",
+      "D": "thick"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'light' describes something that does not weigh much."
+  },
+  {
+    "id": 131,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "They ___ lunch at 1 PM.",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "having",
+      "D": "had"
+    },
+    "correct_answer": "B",
+    "explanation": "With plural subjects like 'they', the correct present simple verb is 'have'."
+  },
+  {
+    "id": 132,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the synonym of 'angry'?",
+    "options": {
+      "A": "happy",
+      "B": "mad",
+      "C": "calm",
+      "D": "kind"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'mad' is commonly used as a synonym for 'angry'."
+  },
+  {
+    "id": 133,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ his car every Sunday.",
+    "options": {
+      "A": "wash",
+      "B": "washes",
+      "C": "washing",
+      "D": "washed"
+    },
+    "correct_answer": "B",
+    "explanation": "For third person singular subjects, present simple verbs take an 's'."
+  },
+  {
+    "id": 134,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a preposition?",
+    "options": {
+      "A": "under",
+      "B": "run",
+      "C": "happy",
+      "D": "quickly"
+    },
+    "correct_answer": "A",
+    "explanation": "Prepositions show position or direction, and 'under' shows location."
+  },
+  {
+    "id": 135,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ a letter to her friend.",
+    "options": {
+      "A": "write",
+      "B": "writes",
+      "C": "writing",
+      "D": "wrote"
+    },
+    "correct_answer": "B",
+    "explanation": "This sentence is in present simple tense, and 'she' requires the verb form 'writes'."
+  },
+  {
+    "id": 136,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the opposite of 'early'?",
+    "options": {
+      "A": "fast",
+      "B": "late",
+      "C": "soon",
+      "D": "quick"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'late' describes something that does not happen early."
+  },
+  {
+    "id": 137,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ tired after work.",
+    "options": {
+      "A": "feel",
+      "B": "feels",
+      "C": "feeling",
+      "D": "felt"
+    },
+    "correct_answer": "B",
+    "explanation": "In present simple tense, third person singular subjects use verbs ending with 's'."
+  },
+  {
+    "id": 138,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word means 'very good'?",
+    "options": {
+      "A": "bad",
+      "B": "poor",
+      "C": "excellent",
+      "D": "weak"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'excellent' is used to describe something of very high quality."
+  },
+  {
+    "id": 139,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ a song when I entered.",
+    "options": {
+      "A": "sings",
+      "B": "is singing",
+      "C": "was singing",
+      "D": "sang"
+    },
+    "correct_answer": "C",
+    "explanation": "Past continuous tense describes an action that was happening in the past."
+  },
+  {
+    "id": 140,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the plural of 'foot'?",
+    "options": {
+      "A": "foots",
+      "B": "feet",
+      "C": "foot",
+      "D": "feets"
+    },
+    "correct_answer": "B",
+    "explanation": "The noun 'foot' has an irregular plural form, which is 'feet'."
+  },
+  {
+    "id": 141,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ not finished his work yet.",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "is",
+      "D": "was"
+    },
+    "correct_answer": "A",
+    "explanation": "Present perfect tense with third person singular subjects uses 'has'."
+  },
+  {
+    "id": 142,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a conjunction?",
+    "options": {
+      "A": "and",
+      "B": "happy",
+      "C": "quickly",
+      "D": "table"
+    },
+    "correct_answer": "A",
+    "explanation": "Conjunctions join words or sentences, and 'and' is a common conjunction."
+  },
+  {
+    "id": 143,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "The baby is ___ now.",
+    "options": {
+      "A": "sleep",
+      "B": "sleeping",
+      "C": "slept",
+      "D": "sleeps"
+    },
+    "correct_answer": "B",
+    "explanation": "Present continuous tense is used to describe actions happening at the moment."
+  },
+  {
+    "id": 144,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the synonym of 'clean'?",
+    "options": {
+      "A": "dirty",
+      "B": "neat",
+      "C": "messy",
+      "D": "wet"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'neat' describes something that is clean and well arranged."
+  },
+  {
+    "id": 145,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ very softly.",
+    "options": {
+      "A": "speak",
+      "B": "speaks",
+      "C": "speaking",
+      "D": "spoke"
+    },
+    "correct_answer": "B",
+    "explanation": "In present simple tense, third person singular subjects require verbs ending with 's'."
+  },
+  {
+    "id": 146,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a verb?",
+    "options": {
+      "A": "sleep",
+      "B": "bed",
+      "C": "pillow",
+      "D": "night"
+    },
+    "correct_answer": "A",
+    "explanation": "A verb shows an action or state, and 'sleep' describes an action."
+  },
+  {
+    "id": 147,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ late for school yesterday.",
+    "options": {
+      "A": "is",
+      "B": "was",
+      "C": "are",
+      "D": "were"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'yesterday' shows past time, and 'he' takes the verb 'was'."
+  },
+  {
+    "id": 148,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the plural of 'tooth'?",
+    "options": {
+      "A": "tooths",
+      "B": "teeth",
+      "C": "toothes",
+      "D": "tooth"
+    },
+    "correct_answer": "B",
+    "explanation": "The noun 'tooth' has an irregular plural form, which is 'teeth'."
+  },
+  {
+    "id": 149,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ her exams very well.",
+    "options": {
+      "A": "do",
+      "B": "does",
+      "C": "doing",
+      "D": "did"
+    },
+    "correct_answer": "B",
+    "explanation": "With third person singular subjects, the correct present simple verb is 'does'."
+  },
+  {
+    "id": 150,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "The shop ___ closed on Sundays.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "were"
+    },
+    "correct_answer": "A",
+    "explanation": "With singular subjects like 'shop', the correct present form of 'be' is 'is'."
+  },
+
+  {
+    "id": 151,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ to school by bus.",
+    "options": {
+      "A": "go",
+      "B": "goes",
+      "C": "going",
+      "D": "gone"
+    },
+    "correct_answer": "B",
+    "explanation": "With third person singular subjects like 'she', the present simple verb must end with 's'."
+  },
+  {
+    "id": 152,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ very polite to everyone.",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "were",
+      "D": "be"
+    },
+    "correct_answer": "B",
+    "explanation": "For singular subjects such as 'he', the correct present form of the verb 'be' is 'is'."
+  },
+  {
+    "id": 153,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct article: ___ elephant is big.",
+    "options": {
+      "A": "A",
+      "B": "An",
+      "C": "The",
+      "D": "No article"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'elephant' begins with a vowel sound, so the correct article is 'an'."
+  },
+  {
+    "id": 154,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "They ___ dinner at 8 PM.",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "having",
+      "D": "had"
+    },
+    "correct_answer": "B",
+    "explanation": "With plural subjects like 'they', the correct present simple form of the verb is 'have'."
+  },
+  {
+    "id": 155,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the synonym of 'small'?",
+    "options": {
+      "A": "big",
+      "B": "large",
+      "C": "tiny",
+      "D": "tall"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'tiny' means very small and is a common synonym for 'small'."
+  },
+  {
+    "id": 156,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ watching TV now.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "were"
+    },
+    "correct_answer": "A",
+    "explanation": "Present continuous tense uses 'is' with singular subjects to show actions happening now."
+  },
+  {
+    "id": 157,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a noun?",
+    "options": {
+      "A": "quickly",
+      "B": "run",
+      "C": "teacher",
+      "D": "happy"
+    },
+    "correct_answer": "C",
+    "explanation": "A noun names a person, place, or thing, and 'teacher' names a person."
+  },
+  {
+    "id": 158,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ his work on time.",
+    "options": {
+      "A": "finish",
+      "B": "finishes",
+      "C": "finishing",
+      "D": "finished"
+    },
+    "correct_answer": "B",
+    "explanation": "In present simple tense, verbs take an 's' with third person singular subjects."
+  },
+  {
+    "id": 159,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the plural of 'car'?",
+    "options": {
+      "A": "cars",
+      "B": "cares",
+      "C": "caren",
+      "D": "car"
+    },
+    "correct_answer": "A",
+    "explanation": "Most nouns form their plural by adding 's', so 'car' becomes 'cars'."
+  },
+  {
+    "id": 160,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ very softly.",
+    "options": {
+      "A": "speak",
+      "B": "speaks",
+      "C": "speaking",
+      "D": "spoke"
+    },
+    "correct_answer": "B",
+    "explanation": "With third person singular subjects, the present simple verb form ends with 's'."
+  },
+  {
+    "id": 161,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct sentence.",
+    "options": {
+      "A": "He don't understand.",
+      "B": "He doesn't understand.",
+      "C": "He not understand.",
+      "D": "He doesn't understands."
+    },
+    "correct_answer": "B",
+    "explanation": "With 'does not', the main verb remains in base form, making this sentence correct."
+  },
+  {
+    "id": 162,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the past tense of 'cook'?",
+    "options": {
+      "A": "cook",
+      "B": "cooked",
+      "C": "cooking",
+      "D": "cooks"
+    },
+    "correct_answer": "B",
+    "explanation": "Regular verbs form the past tense by adding 'ed', so 'cook' becomes 'cooked'."
+  },
+  {
+    "id": 163,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is an adjective?",
+    "options": {
+      "A": "quickly",
+      "B": "beauty",
+      "C": "beautiful",
+      "D": "run"
+    },
+    "correct_answer": "C",
+    "explanation": "Adjectives describe nouns, and 'beautiful' describes appearance or quality."
+  },
+  {
+    "id": 164,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "They ___ at home yesterday.",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "was"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'yesterday' shows past time, and plural subjects use 'were'."
+  },
+  {
+    "id": 165,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the opposite of 'hot'?",
+    "options": {
+      "A": "warm",
+      "B": "cold",
+      "C": "cool",
+      "D": "heat"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'cold' describes low temperature and is the opposite of 'hot'."
+  },
+  {
+    "id": 166,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ to music every day.",
+    "options": {
+      "A": "listen",
+      "B": "listens",
+      "C": "listening",
+      "D": "listened"
+    },
+    "correct_answer": "B",
+    "explanation": "Third person singular subjects require verbs ending with 's' in present simple tense."
+  },
+  {
+    "id": 167,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Choose the correct preposition: The ball is ___ the box.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "to"
+    },
+    "correct_answer": "A",
+    "explanation": "The preposition 'in' is used to show something located inside another object."
+  },
+  {
+    "id": 168,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word means 'not correct'?",
+    "options": {
+      "A": "right",
+      "B": "true",
+      "C": "wrong",
+      "D": "exact"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'wrong' means incorrect and does not match the truth or facts."
+  },
+  {
+    "id": 169,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ his shoes before entering.",
+    "options": {
+      "A": "remove",
+      "B": "removes",
+      "C": "removing",
+      "D": "removed"
+    },
+    "correct_answer": "B",
+    "explanation": "Present simple tense with third person singular subjects requires the verb to end with 's'."
+  },
+  {
+    "id": 170,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the plural of 'leaf'?",
+    "options": {
+      "A": "leafs",
+      "B": "leaves",
+      "C": "leafes",
+      "D": "leaf"
+    },
+    "correct_answer": "B",
+    "explanation": "Some nouns ending in 'f' change to 'ves' in plural, so 'leaf' becomes 'leaves'."
+  },
+  {
+    "id": 171,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ her homework already.",
+    "options": {
+      "A": "finish",
+      "B": "finishes",
+      "C": "has finished",
+      "D": "finished"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'already' is commonly used with present perfect tense like 'has finished'."
+  },
+  {
+    "id": 172,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is an adverb?",
+    "options": {
+      "A": "slow",
+      "B": "slowly",
+      "C": "slower",
+      "D": "slowness"
+    },
+    "correct_answer": "B",
+    "explanation": "Adverbs describe verbs, and 'slowly' explains how an action is performed."
+  },
+  {
+    "id": 173,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "The shop ___ at 10 AM.",
+    "options": {
+      "A": "open",
+      "B": "opens",
+      "C": "opening",
+      "D": "opened"
+    },
+    "correct_answer": "B",
+    "explanation": "Daily schedules use present simple tense, and singular subjects take verbs ending with 's'."
+  },
+  {
+    "id": 174,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the synonym of 'happy'?",
+    "options": {
+      "A": "sad",
+      "B": "angry",
+      "C": "joyful",
+      "D": "tired"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'joyful' expresses happiness and is a synonym of 'happy'."
+  },
+  {
+    "id": 175,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ very well in class.",
+    "options": {
+      "A": "do",
+      "B": "does",
+      "C": "doing",
+      "D": "did"
+    },
+    "correct_answer": "B",
+    "explanation": "With third person singular subjects, the correct present simple verb form is 'does'."
+  },
+  {
+    "id": 176,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a pronoun?",
+    "options": {
+      "A": "book",
+      "B": "she",
+      "C": "write",
+      "D": "blue"
+    },
+    "correct_answer": "B",
+    "explanation": "Pronouns replace nouns, and 'she' is used instead of a female noun."
+  },
+  {
+    "id": 177,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the opposite of 'fast'?",
+    "options": {
+      "A": "quick",
+      "B": "slow",
+      "C": "early",
+      "D": "light"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'slow' means not fast and describes a lower speed."
+  },
+  {
+    "id": 178,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ a letter to her mother.",
+    "options": {
+      "A": "write",
+      "B": "writes",
+      "C": "writing",
+      "D": "wrote"
+    },
+    "correct_answer": "B",
+    "explanation": "This sentence is in present simple tense, and 'she' requires the verb 'writes'."
+  },
+  {
+    "id": 179,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word means 'very good'?",
+    "options": {
+      "A": "bad",
+      "B": "poor",
+      "C": "excellent",
+      "D": "weak"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'excellent' is used to describe something of very high quality."
+  },
+  {
+    "id": 180,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "They ___ playing in the park.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "has"
+    },
+    "correct_answer": "B",
+    "explanation": "Present continuous tense with plural subjects uses the helping verb 'are'."
+  },
+  {
+    "id": 181,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the plural of 'man'?",
+    "options": {
+      "A": "mans",
+      "B": "mens",
+      "C": "men",
+      "D": "man"
+    },
+    "correct_answer": "C",
+    "explanation": "The noun 'man' has an irregular plural form, which is 'men'."
+  },
+  {
+    "id": 182,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ late for school today.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "were"
+    },
+    "correct_answer": "A",
+    "explanation": "With singular subjects in present tense, the correct form of 'be' is 'is'."
+  },
+  {
+    "id": 183,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a verb?",
+    "options": {
+      "A": "sleep",
+      "B": "bed",
+      "C": "pillow",
+      "D": "night"
+    },
+    "correct_answer": "A",
+    "explanation": "A verb shows an action or state, and 'sleep' describes an action."
+  },
+  {
+    "id": 184,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ her keys on the table.",
+    "options": {
+      "A": "keep",
+      "B": "keeps",
+      "C": "keeping",
+      "D": "kept"
+    },
+    "correct_answer": "B",
+    "explanation": "Present simple tense with 'she' requires the verb to end with 's'."
+  },
+  {
+    "id": 185,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the plural of 'mouse'?",
+    "options": {
+      "A": "mouses",
+      "B": "mouse",
+      "C": "mice",
+      "D": "meese"
+    },
+    "correct_answer": "C",
+    "explanation": "The noun 'mouse' has an irregular plural form, which is 'mice'."
+  },
+  {
+    "id": 186,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ very tired after work.",
+    "options": {
+      "A": "feel",
+      "B": "feels",
+      "C": "feeling",
+      "D": "felt"
+    },
+    "correct_answer": "B",
+    "explanation": "In present simple tense, third person singular subjects take verbs ending with 's'."
+  },
+  {
+    "id": 187,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is a conjunction?",
+    "options": {
+      "A": "and",
+      "B": "blue",
+      "C": "quickly",
+      "D": "table"
+    },
+    "correct_answer": "A",
+    "explanation": "Conjunctions join words or sentences, and 'and' is a common conjunction."
+  },
+  {
+    "id": 188,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the past tense of 'see'?",
+    "options": {
+      "A": "seen",
+      "B": "saw",
+      "C": "seeing",
+      "D": "sees"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'see' has an irregular past tense form, which is 'saw'."
+  },
+  {
+    "id": 189,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "The baby is ___ now.",
+    "options": {
+      "A": "sleep",
+      "B": "slept",
+      "C": "sleeping",
+      "D": "sleeps"
+    },
+    "correct_answer": "C",
+    "explanation": "Present continuous tense describes actions happening at the moment, such as sleeping now."
+  },
+  {
+    "id": 190,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word means 'clean'?",
+    "options": {
+      "A": "dirty",
+      "B": "neat",
+      "C": "messy",
+      "D": "wet"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'neat' describes something that is clean and well arranged."
+  },
+  {
+    "id": 191,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ his homework before dinner.",
+    "options": {
+      "A": "finish",
+      "B": "finishes",
+      "C": "finished",
+      "D": "finishing"
+    },
+    "correct_answer": "B",
+    "explanation": "This sentence shows a regular habit, so present simple tense with 'finishes' is correct."
+  },
+  {
+    "id": 192,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the opposite of 'up'?",
+    "options": {
+      "A": "over",
+      "B": "down",
+      "C": "above",
+      "D": "high"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'down' describes the opposite direction of 'up'."
+  },
+  {
+    "id": 193,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ English very well.",
+    "options": {
+      "A": "speak",
+      "B": "speaks",
+      "C": "speaking",
+      "D": "spoke"
+    },
+    "correct_answer": "B",
+    "explanation": "In present simple tense, third person singular subjects require verbs ending with 's'."
+  },
+  {
+    "id": 194,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which sentence is a question?",
+    "options": {
+      "A": "She is coming today.",
+      "B": "Is she coming today?",
+      "C": "She coming today?",
+      "D": "She is coming today?"
+    },
+    "correct_answer": "B",
+    "explanation": "Questions are formed by placing the auxiliary verb before the subject in English."
+  },
+  {
+    "id": 195,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the plural of 'tooth'?",
+    "options": {
+      "A": "tooths",
+      "B": "teeth",
+      "C": "toothes",
+      "D": "tooth"
+    },
+    "correct_answer": "B",
+    "explanation": "The noun 'tooth' has an irregular plural form, which is 'teeth'."
+  },
+  {
+    "id": 196,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "She ___ very carefully.",
+    "options": {
+      "A": "walk",
+      "B": "walks",
+      "C": "walking",
+      "D": "walked"
+    },
+    "correct_answer": "B",
+    "explanation": "With third person singular subjects, the present simple verb form ends with 's'."
+  },
+  {
+    "id": 197,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "Which word is an interjection?",
+    "options": {
+      "A": "wow",
+      "B": "book",
+      "C": "slowly",
+      "D": "and"
+    },
+    "correct_answer": "A",
+    "explanation": "Interjections express sudden feelings or emotions, and 'wow' shows surprise."
+  },
+  {
+    "id": 198,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "He ___ very early every day.",
+    "options": {
+      "A": "wake",
+      "B": "wakes",
+      "C": "waking",
+      "D": "woke"
+    },
+    "correct_answer": "B",
+    "explanation": "Present simple tense with third person singular subjects requires the verb 'wakes'."
+  },
+  {
+    "id": 199,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "What is the synonym of 'fast'?",
+    "options": {
+      "A": "slow",
+      "B": "quick",
+      "C": "late",
+      "D": "weak"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'quick' has the same meaning as 'fast' and describes speed."
+  },
+  {
+    "id": 200,
+    "subject": "English",
+    "difficulty": "Easy",
+    "question": "The shop ___ closed on Sunday.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "be"
+    },
+    "correct_answer": "A",
+    "explanation": "With singular subjects like 'shop', the correct present tense form of 'be' is 'is'."
+  },
+
+  {
+    "id": 201,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has been working here ___ five years.",
+    "options": {
+      "A": "since",
+      "B": "for",
+      "C": "from",
+      "D": "during"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'for' is used to indicate a period of time, such as five years."
+  },
+  {
+    "id": 202,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "If it ___ tomorrow, we will stay at home.",
+    "options": {
+      "A": "rains",
+      "B": "rained",
+      "C": "will rain",
+      "D": "has rained"
+    },
+    "correct_answer": "A",
+    "explanation": "In first conditional sentences, the if-clause uses present simple tense to show a real possibility."
+  },
+  {
+    "id": 203,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She asked me where I ___ from.",
+    "options": {
+      "A": "am",
+      "B": "was",
+      "C": "were",
+      "D": "have been"
+    },
+    "correct_answer": "B",
+    "explanation": "In reported speech, present tense usually changes to past tense when the reporting verb is past."
+  },
+  {
+    "id": 204,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The train arrived ___ than expected.",
+    "options": {
+      "A": "early",
+      "B": "earlier",
+      "C": "earliest",
+      "D": "more early"
+    },
+    "correct_answer": "B",
+    "explanation": "Comparisons use the comparative form 'earlier' when comparing two times or situations."
+  },
+  {
+    "id": 205,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He is interested ___ learning new languages.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "explanation": "The adjective 'interested' is followed by the preposition 'in' to show interest in something."
+  },
+  {
+    "id": 206,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "Neither of the answers ___ correct.",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "have"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'neither' is singular, so it takes a singular verb form."
+  },
+  {
+    "id": 207,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She speaks ___ than her sister.",
+    "options": {
+      "A": "more confident",
+      "B": "most confident",
+      "C": "confident",
+      "D": "more confidently"
+    },
+    "correct_answer": "D",
+    "explanation": "Adverbs describe verbs, and the comparative form 'more confidently' is required here."
+  },
+  {
+    "id": 208,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He stopped ___ when the phone rang.",
+    "options": {
+      "A": "to study",
+      "B": "studying",
+      "C": "study",
+      "D": "studied"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'stop' followed by a gerund means to stop an ongoing action."
+  },
+  {
+    "id": 209,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The movie was ___ boring that we left early.",
+    "options": {
+      "A": "very",
+      "B": "too",
+      "C": "so",
+      "D": "enough"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'so + adjective + that' is used to show cause and result."
+  },
+  {
+    "id": 210,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t go to the party ___ she was feeling unwell.",
+    "options": {
+      "A": "but",
+      "B": "because",
+      "C": "although",
+      "D": "unless"
+    },
+    "correct_answer": "B",
+    "explanation": "The conjunction 'because' is used to explain the reason for an action."
+  },
+  {
+    "id": 211,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The book ___ by many people last year.",
+    "options": {
+      "A": "is read",
+      "B": "was read",
+      "C": "has read",
+      "D": "reads"
+    },
+    "correct_answer": "B",
+    "explanation": "This sentence is in passive voice and simple past tense, so 'was read' is correct."
+  },
+  {
+    "id": 212,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She is ___ honest person.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'honest' begins with a vowel sound, so the article 'an' is used."
+  },
+  {
+    "id": 213,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He suggested that we ___ earlier.",
+    "options": {
+      "A": "leave",
+      "B": "leaves",
+      "C": "left",
+      "D": "leaving"
+    },
+    "correct_answer": "A",
+    "explanation": "After verbs like suggest, the base form of the verb is used in formal English."
+  },
+  {
+    "id": 214,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has lived here ___ 2015.",
+    "options": {
+      "A": "for",
+      "B": "since",
+      "C": "during",
+      "D": "from"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'since' is used with a specific point in time like a year."
+  },
+  {
+    "id": 215,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The teacher asked the students ___ quiet.",
+    "options": {
+      "A": "be",
+      "B": "to be",
+      "C": "being",
+      "D": "been"
+    },
+    "correct_answer": "B",
+    "explanation": "After verbs like ask, the infinitive form 'to be' is commonly used."
+  },
+  {
+    "id": 216,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "This is the ___ movie I have ever seen.",
+    "options": {
+      "A": "more interesting",
+      "B": "most interesting",
+      "C": "very interesting",
+      "D": "much interesting"
+    },
+    "correct_answer": "B",
+    "explanation": "Superlative adjectives use 'most' to describe the highest degree among many."
+  },
+  {
+    "id": 217,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She apologized ___ being late.",
+    "options": {
+      "A": "for",
+      "B": "to",
+      "C": "about",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "explanation": "The verb 'apologize' is followed by the preposition 'for' before a gerund."
+  },
+  {
+    "id": 218,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He works ___ than his brother.",
+    "options": {
+      "A": "hard",
+      "B": "harder",
+      "C": "hardest",
+      "D": "more hard"
+    },
+    "correct_answer": "B",
+    "explanation": "The comparative form 'harder' is used when comparing two people or things."
+  },
+  {
+    "id": 219,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t know ___ to say.",
+    "options": {
+      "A": "what",
+      "B": "which",
+      "C": "that",
+      "D": "how"
+    },
+    "correct_answer": "A",
+    "explanation": "The word 'what' is used as an object in indirect questions."
+  },
+  {
+    "id": 220,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The house ___ last year is already sold.",
+    "options": {
+      "A": "build",
+      "B": "built",
+      "C": "building",
+      "D": "builds"
+    },
+    "correct_answer": "B",
+    "explanation": "The past participle 'built' is used here to form a reduced relative clause."
+  },
+  {
+    "id": 221,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She speaks English ___ fluently.",
+    "options": {
+      "A": "much",
+      "B": "very",
+      "C": "too",
+      "D": "enough"
+    },
+    "correct_answer": "B",
+    "explanation": "The adverb 'very' is commonly used to intensify another adverb like 'fluently'."
+  },
+  {
+    "id": 222,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He was tired, ___ he continued working.",
+    "options": {
+      "A": "but",
+      "B": "so",
+      "C": "because",
+      "D": "although"
+    },
+    "correct_answer": "A",
+    "explanation": "The conjunction 'but' is used to show contrast between two ideas."
+  },
+  {
+    "id": 223,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She asked me ___ I had finished the task.",
+    "options": {
+      "A": "that",
+      "B": "if",
+      "C": "what",
+      "D": "who"
+    },
+    "correct_answer": "B",
+    "explanation": "Indirect yes-or-no questions often use 'if' or 'whether'."
+  },
+  {
+    "id": 224,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The work must ___ by tomorrow.",
+    "options": {
+      "A": "finish",
+      "B": "finished",
+      "C": "be finished",
+      "D": "finishing"
+    },
+    "correct_answer": "C",
+    "explanation": "Modal verbs in passive voice use the structure 'must be' plus past participle."
+  },
+  {
+    "id": 225,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She is good ___ mathematics.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "with"
+    },
+    "correct_answer": "C",
+    "explanation": "The adjective 'good' is followed by the preposition 'at' for skills or subjects."
+  },
+  {
+    "id": 226,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He has ___ finished his lunch.",
+    "options": {
+      "A": "yet",
+      "B": "already",
+      "C": "still",
+      "D": "ever"
+    },
+    "correct_answer": "B",
+    "explanation": "The adverb 'already' is commonly used in affirmative present perfect sentences."
+  },
+  {
+    "id": 227,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The road is ___ narrow for two cars.",
+    "options": {
+      "A": "very",
+      "B": "too",
+      "C": "so",
+      "D": "enough"
+    },
+    "correct_answer": "B",
+    "explanation": "The structure 'too + adjective' shows that something is excessive or problematic."
+  },
+  {
+    "id": 228,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She prefers tea ___ coffee.",
+    "options": {
+      "A": "than",
+      "B": "from",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'prefer' is followed by 'to' when comparing two things."
+  },
+  {
+    "id": 229,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He was surprised ___ the news.",
+    "options": {
+      "A": "at",
+      "B": "on",
+      "C": "with",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "explanation": "The adjective 'surprised' is commonly followed by the preposition 'at'."
+  },
+  {
+    "id": 230,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The teacher made us ___ the exercise again.",
+    "options": {
+      "A": "do",
+      "B": "to do",
+      "C": "doing",
+      "D": "did"
+    },
+    "correct_answer": "A",
+    "explanation": "After 'make', the bare infinitive form of the verb is used."
+  },
+  {
+    "id": 231,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has ___ money than her brother.",
+    "options": {
+      "A": "few",
+      "B": "less",
+      "C": "little",
+      "D": "fewer"
+    },
+    "correct_answer": "B",
+    "explanation": "The comparative 'less' is used with uncountable nouns like money."
+  },
+  {
+    "id": 232,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He didn’t ___ the answer.",
+    "options": {
+      "A": "knew",
+      "B": "knows",
+      "C": "know",
+      "D": "knowing"
+    },
+    "correct_answer": "C",
+    "explanation": "After 'did not', the main verb stays in its base form."
+  },
+  {
+    "id": 233,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She is looking forward to ___ you.",
+    "options": {
+      "A": "see",
+      "B": "seeing",
+      "C": "seen",
+      "D": "to see"
+    },
+    "correct_answer": "B",
+    "explanation": "The phrase 'look forward to' is followed by a gerund form of the verb."
+  },
+  {
+    "id": 234,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He ran ___ fast that he won the race.",
+    "options": {
+      "A": "very",
+      "B": "too",
+      "C": "so",
+      "D": "enough"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'so + adverb + that' is used to show result."
+  },
+  {
+    "id": 235,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The room was cleaned ___ the children.",
+    "options": {
+      "A": "by",
+      "B": "with",
+      "C": "from",
+      "D": "for"
+    },
+    "correct_answer": "A",
+    "explanation": "In passive voice, 'by' is used to show the doer of the action."
+  },
+  {
+    "id": 236,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She ___ be at home now.",
+    "options": {
+      "A": "must",
+      "B": "should",
+      "C": "can",
+      "D": "would"
+    },
+    "correct_answer": "A",
+    "explanation": "The modal verb 'must' is used to express strong logical certainty."
+  },
+  {
+    "id": 237,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He was too tired ___ continue.",
+    "options": {
+      "A": "for",
+      "B": "to",
+      "C": "that",
+      "D": "so"
+    },
+    "correct_answer": "B",
+    "explanation": "The structure 'too + adjective + to + verb' shows inability to do something."
+  },
+  {
+    "id": 238,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has known him ___ childhood.",
+    "options": {
+      "A": "for",
+      "B": "since",
+      "C": "from",
+      "D": "during"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'since' is used to indicate a starting point in time."
+  },
+  {
+    "id": 239,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The car is ___ expensive for me.",
+    "options": {
+      "A": "so",
+      "B": "too",
+      "C": "very",
+      "D": "enough"
+    },
+    "correct_answer": "B",
+    "explanation": "The structure 'too + adjective' shows that something is excessively costly."
+  },
+  {
+    "id": 240,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She speaks ___ French than German.",
+    "options": {
+      "A": "better",
+      "B": "best",
+      "C": "more better",
+      "D": "good"
+    },
+    "correct_answer": "A",
+    "explanation": "The comparative form 'better' is used to compare proficiency between two languages."
+  },
+  {
+    "id": 241,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He forgot ___ the door.",
+    "options": {
+      "A": "lock",
+      "B": "locking",
+      "C": "to lock",
+      "D": "locked"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'forget' followed by an infinitive means failing to do something."
+  },
+  {
+    "id": 242,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t have ___ time to finish.",
+    "options": {
+      "A": "many",
+      "B": "few",
+      "C": "much",
+      "D": "little"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'much' is used with uncountable nouns like time in negative sentences."
+  },
+  {
+    "id": 243,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The students were excited ___ the trip.",
+    "options": {
+      "A": "about",
+      "B": "for",
+      "C": "with",
+      "D": "at"
+    },
+    "correct_answer": "A",
+    "explanation": "The adjective 'excited' is followed by 'about' when referring to an event."
+  },
+  {
+    "id": 244,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He asked me ___ I wanted tea or coffee.",
+    "options": {
+      "A": "that",
+      "B": "if",
+      "C": "whether",
+      "D": "what"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'whether' is used in indirect questions offering alternatives."
+  },
+  {
+    "id": 245,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The exam was ___ difficult than expected.",
+    "options": {
+      "A": "much",
+      "B": "more",
+      "C": "most",
+      "D": "very"
+    },
+    "correct_answer": "B",
+    "explanation": "The comparative form 'more difficult' is used to compare two levels of difficulty."
+  },
+  {
+    "id": 246,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She reminded me ___ my appointment.",
+    "options": {
+      "A": "about",
+      "B": "to",
+      "C": "for",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "explanation": "The verb 'remind' is commonly followed by the preposition 'about'."
+  },
+  {
+    "id": 247,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He works ___ a software engineer.",
+    "options": {
+      "A": "like",
+      "B": "as",
+      "C": "for",
+      "D": "with"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'as' is used to describe a person’s role or profession."
+  },
+  {
+    "id": 248,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She was ___ tired to continue working.",
+    "options": {
+      "A": "so",
+      "B": "very",
+      "C": "too",
+      "D": "enough"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'too + adjective + to' shows inability to perform an action."
+  },
+  {
+    "id": 249,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He denied ___ the money.",
+    "options": {
+      "A": "to take",
+      "B": "take",
+      "C": "taking",
+      "D": "taken"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'deny' is followed by a gerund, not an infinitive form."
+  },
+  {
+    "id": 250,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The meeting was postponed ___ next week.",
+    "options": {
+      "A": "until",
+      "B": "since",
+      "C": "during",
+      "D": "from"
+    },
+    "correct_answer": "A",
+    "explanation": "The preposition 'until' is used to indicate the time something is delayed to."
+  },
+
+  {
+    "id": 251,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She was absent ___ she was ill.",
+    "options": {
+      "A": "although",
+      "B": "because",
+      "C": "but",
+      "D": "unless"
+    },
+    "correct_answer": "B",
+    "explanation": "The conjunction 'because' is used to explain the reason for her absence."
+  },
+  {
+    "id": 252,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He speaks English ___ than before.",
+    "options": {
+      "A": "good",
+      "B": "better",
+      "C": "best",
+      "D": "well"
+    },
+    "correct_answer": "B",
+    "explanation": "The comparative form 'better' is used to compare improvement over time."
+  },
+  {
+    "id": 253,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She asked me ___ I was ready.",
+    "options": {
+      "A": "that",
+      "B": "if",
+      "C": "what",
+      "D": "which"
+    },
+    "correct_answer": "B",
+    "explanation": "Indirect yes-or-no questions commonly use 'if' instead of question inversion."
+  },
+  {
+    "id": 254,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The work ___ by the team yesterday.",
+    "options": {
+      "A": "is completed",
+      "B": "has completed",
+      "C": "was completed",
+      "D": "completed"
+    },
+    "correct_answer": "C",
+    "explanation": "Past simple passive voice is used here, so 'was completed' is correct."
+  },
+  {
+    "id": 255,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has been living here ___ ten years.",
+    "options": {
+      "A": "since",
+      "B": "for",
+      "C": "from",
+      "D": "during"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'for' is used to indicate a duration of time."
+  },
+  {
+    "id": 256,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He is not ___ tall as his brother.",
+    "options": {
+      "A": "so",
+      "B": "too",
+      "C": "very",
+      "D": "much"
+    },
+    "correct_answer": "A",
+    "explanation": "The structure 'not so/as … as' is used for negative comparisons."
+  },
+  {
+    "id": 257,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She prefers reading ___ watching TV.",
+    "options": {
+      "A": "than",
+      "B": "from",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'prefer' is followed by 'to' when making comparisons."
+  },
+  {
+    "id": 258,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He was accused ___ cheating in the exam.",
+    "options": {
+      "A": "for",
+      "B": "of",
+      "C": "with",
+      "D": "by"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'accuse' is followed by the preposition 'of'."
+  },
+  {
+    "id": 259,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t have ___ information to decide.",
+    "options": {
+      "A": "many",
+      "B": "few",
+      "C": "enough",
+      "D": "plenty"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'enough' is used to show sufficiency with uncountable nouns."
+  },
+  {
+    "id": 260,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The teacher told us ___ quietly.",
+    "options": {
+      "A": "work",
+      "B": "to work",
+      "C": "working",
+      "D": "worked"
+    },
+    "correct_answer": "B",
+    "explanation": "After verbs like 'tell', the infinitive form 'to work' is used."
+  },
+  {
+    "id": 261,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has ___ finished her assignment.",
+    "options": {
+      "A": "yet",
+      "B": "already",
+      "C": "still",
+      "D": "never"
+    },
+    "correct_answer": "B",
+    "explanation": "The adverb 'already' is commonly used in affirmative present perfect sentences."
+  },
+  {
+    "id": 262,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He was tired ___ he kept working.",
+    "options": {
+      "A": "because",
+      "B": "so",
+      "C": "but",
+      "D": "although"
+    },
+    "correct_answer": "C",
+    "explanation": "The conjunction 'but' shows contrast between being tired and continuing to work."
+  },
+  {
+    "id": 263,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The bus arrived ___ time.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "by"
+    },
+    "correct_answer": "B",
+    "explanation": "The expression 'on time' means arriving at the correct scheduled time."
+  },
+  {
+    "id": 264,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She is afraid ___ dogs.",
+    "options": {
+      "A": "from",
+      "B": "with",
+      "C": "of",
+      "D": "about"
+    },
+    "correct_answer": "C",
+    "explanation": "The adjective 'afraid' is followed by the preposition 'of'."
+  },
+  {
+    "id": 265,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He was made ___ the report again.",
+    "options": {
+      "A": "write",
+      "B": "to write",
+      "C": "writing",
+      "D": "written"
+    },
+    "correct_answer": "B",
+    "explanation": "In passive voice, 'make' is followed by 'to' plus base verb."
+  },
+  {
+    "id": 266,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She speaks ___ clearly for everyone to understand.",
+    "options": {
+      "A": "too",
+      "B": "very",
+      "C": "so",
+      "D": "enough"
+    },
+    "correct_answer": "D",
+    "explanation": "The structure 'adverb + enough' shows sufficient degree of an action."
+  },
+  {
+    "id": 267,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The meeting was cancelled ___ the rain.",
+    "options": {
+      "A": "because",
+      "B": "because of",
+      "C": "although",
+      "D": "so"
+    },
+    "correct_answer": "B",
+    "explanation": "'Because of' is used before a noun phrase like 'the rain'."
+  },
+  {
+    "id": 268,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She reminded him ___ the keys.",
+    "options": {
+      "A": "lock",
+      "B": "locking",
+      "C": "to lock",
+      "D": "locked"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'remind' followed by an object uses the infinitive form."
+  },
+  {
+    "id": 269,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He was surprised ___ her decision.",
+    "options": {
+      "A": "at",
+      "B": "by",
+      "C": "with",
+      "D": "on"
+    },
+    "correct_answer": "A",
+    "explanation": "The adjective 'surprised' is commonly followed by the preposition 'at'."
+  },
+  {
+    "id": 270,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has ___ friends in this city.",
+    "options": {
+      "A": "little",
+      "B": "much",
+      "C": "few",
+      "D": "less"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'few' is used with countable plural nouns like friends."
+  },
+  {
+    "id": 271,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The child was punished ___ breaking the rule.",
+    "options": {
+      "A": "for",
+      "B": "of",
+      "C": "to",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "explanation": "The verb 'punish' is followed by the preposition 'for' to show reason."
+  },
+  {
+    "id": 272,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He speaks ___ softly to hear.",
+    "options": {
+      "A": "very",
+      "B": "too",
+      "C": "so",
+      "D": "enough"
+    },
+    "correct_answer": "B",
+    "explanation": "'Too + adverb' shows excess, meaning the action causes a problem."
+  },
+  {
+    "id": 273,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She asked me ___ I liked the movie.",
+    "options": {
+      "A": "that",
+      "B": "what",
+      "C": "if",
+      "D": "which"
+    },
+    "correct_answer": "C",
+    "explanation": "Indirect yes-or-no questions use 'if' instead of question form."
+  },
+  {
+    "id": 274,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The food was too hot ___ eat.",
+    "options": {
+      "A": "for",
+      "B": "to",
+      "C": "that",
+      "D": "so"
+    },
+    "correct_answer": "B",
+    "explanation": "The structure 'too + adjective + to' shows inability to do an action."
+  },
+  {
+    "id": 275,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She works ___ a nurse at the hospital.",
+    "options": {
+      "A": "like",
+      "B": "as",
+      "C": "with",
+      "D": "for"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'as' is used to describe a person’s job or role."
+  },
+  {
+    "id": 276,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He didn’t come ___ he was busy.",
+    "options": {
+      "A": "although",
+      "B": "because",
+      "C": "unless",
+      "D": "while"
+    },
+    "correct_answer": "B",
+    "explanation": "The conjunction 'because' gives the reason for not coming."
+  },
+  {
+    "id": 277,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The letter was written ___ her.",
+    "options": {
+      "A": "from",
+      "B": "by",
+      "C": "with",
+      "D": "to"
+    },
+    "correct_answer": "B",
+    "explanation": "In passive sentences, 'by' introduces the doer of the action."
+  },
+  {
+    "id": 278,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She is ___ than her sister.",
+    "options": {
+      "A": "more confident",
+      "B": "most confident",
+      "C": "very confident",
+      "D": "confidence"
+    },
+    "correct_answer": "A",
+    "explanation": "The comparative form 'more confident' is used when comparing two people."
+  },
+  {
+    "id": 279,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He has lived here ___ childhood.",
+    "options": {
+      "A": "for",
+      "B": "since",
+      "C": "during",
+      "D": "from"
+    },
+    "correct_answer": "B",
+    "explanation": "'Since' is used with a specific starting point in time like childhood."
+  },
+  {
+    "id": 280,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She was happy ___ see him.",
+    "options": {
+      "A": "for",
+      "B": "to",
+      "C": "that",
+      "D": "with"
+    },
+    "correct_answer": "B",
+    "explanation": "The adjective 'happy' is followed by 'to' plus base verb."
+  },
+  {
+    "id": 281,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He ran ___ fast that he fell down.",
+    "options": {
+      "A": "very",
+      "B": "too",
+      "C": "so",
+      "D": "enough"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'so + adverb + that' shows cause and result."
+  },
+  {
+    "id": 282,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She apologized ___ the mistake.",
+    "options": {
+      "A": "to",
+      "B": "for",
+      "C": "about",
+      "D": "with"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'apologize' is followed by the preposition 'for'."
+  },
+  {
+    "id": 283,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The teacher asked ___ the noise.",
+    "options": {
+      "A": "stop",
+      "B": "stopping",
+      "C": "to stop",
+      "D": "stopped"
+    },
+    "correct_answer": "C",
+    "explanation": "After verbs like 'ask', the infinitive form is commonly used."
+  },
+  {
+    "id": 284,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t have ___ money left.",
+    "options": {
+      "A": "many",
+      "B": "few",
+      "C": "much",
+      "D": "plenty"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'much' is used with uncountable nouns in negative sentences."
+  },
+  {
+    "id": 285,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He was late ___ the traffic.",
+    "options": {
+      "A": "because",
+      "B": "because of",
+      "C": "although",
+      "D": "so"
+    },
+    "correct_answer": "B",
+    "explanation": "'Because of' is used before a noun phrase such as traffic."
+  },
+  {
+    "id": 286,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She speaks ___ English than before.",
+    "options": {
+      "A": "better",
+      "B": "best",
+      "C": "good",
+      "D": "well"
+    },
+    "correct_answer": "A",
+    "explanation": "The comparative form 'better' shows improvement over time."
+  },
+  {
+    "id": 287,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He forgot ___ his phone at home.",
+    "options": {
+      "A": "to bring",
+      "B": "bringing",
+      "C": "bring",
+      "D": "brought"
+    },
+    "correct_answer": "A",
+    "explanation": "The verb 'forget' followed by an infinitive means failing to do something."
+  },
+  {
+    "id": 288,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She was ___ tired to walk further.",
+    "options": {
+      "A": "so",
+      "B": "very",
+      "C": "too",
+      "D": "enough"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'too + adjective + to' shows inability to continue."
+  },
+  {
+    "id": 289,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The children were excited ___ the picnic.",
+    "options": {
+      "A": "about",
+      "B": "for",
+      "C": "with",
+      "D": "at"
+    },
+    "correct_answer": "A",
+    "explanation": "The adjective 'excited' is followed by 'about' when referring to events."
+  },
+  {
+    "id": 290,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He works ___ harder than before.",
+    "options": {
+      "A": "very",
+      "B": "much",
+      "C": "too",
+      "D": "so"
+    },
+    "correct_answer": "B",
+    "explanation": "The adverb 'much' is used to intensify comparative adjectives or adverbs."
+  },
+  {
+    "id": 291,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t know ___ answer was correct.",
+    "options": {
+      "A": "what",
+      "B": "which",
+      "C": "that",
+      "D": "who"
+    },
+    "correct_answer": "B",
+    "explanation": "'Which' is used when choosing from a specific set of options."
+  },
+  {
+    "id": 292,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The cake was ___ sweet to eat.",
+    "options": {
+      "A": "very",
+      "B": "so",
+      "C": "too",
+      "D": "enough"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'too + adjective + to' shows excess that causes a problem."
+  },
+  {
+    "id": 293,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has worked here ___ 2020.",
+    "options": {
+      "A": "for",
+      "B": "since",
+      "C": "during",
+      "D": "from"
+    },
+    "correct_answer": "B",
+    "explanation": "'Since' is used with a specific point in time like a year."
+  },
+  {
+    "id": 294,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He warned us ___ the danger.",
+    "options": {
+      "A": "for",
+      "B": "about",
+      "C": "with",
+      "D": "to"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'warn' is followed by the preposition 'about' before a noun."
+  },
+  {
+    "id": 295,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She speaks ___ enough to be understood.",
+    "options": {
+      "A": "clear",
+      "B": "clearly",
+      "C": "clarity",
+      "D": "clearest"
+    },
+    "correct_answer": "B",
+    "explanation": "Adverbs like 'clearly' are used to describe how an action is done."
+  },
+  {
+    "id": 296,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The teacher was pleased ___ the results.",
+    "options": {
+      "A": "at",
+      "B": "with",
+      "C": "for",
+      "D": "by"
+    },
+    "correct_answer": "B",
+    "explanation": "The adjective 'pleased' is commonly followed by the preposition 'with'."
+  },
+  {
+    "id": 297,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He asked me ___ help him.",
+    "options": {
+      "A": "if",
+      "B": "to",
+      "C": "that",
+      "D": "for"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'ask' followed by an object uses the infinitive form."
+  },
+  {
+    "id": 298,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has ___ interest in music.",
+    "options": {
+      "A": "many",
+      "B": "few",
+      "C": "much",
+      "D": "little"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'much' is used with uncountable nouns like interest."
+  },
+  {
+    "id": 299,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He arrived ___ the airport early.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "by"
+    },
+    "correct_answer": "C",
+    "explanation": "The preposition 'at' is used for specific places like airports."
+  },
+  {
+    "id": 300,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She was too busy ___ my call.",
+    "options": {
+      "A": "answer",
+      "B": "answering",
+      "C": "to answer",
+      "D": "answered"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'too + adjective + to + verb' shows inability to perform an action."
+  },
+
+  {
+    "id": 301,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t go out ___ it was raining heavily.",
+    "options": {
+      "A": "although",
+      "B": "because",
+      "C": "but",
+      "D": "unless"
+    },
+    "correct_answer": "B",
+    "explanation": "The conjunction 'because' is used to give a clear reason for not going out."
+  },
+  {
+    "id": 302,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He is much ___ than his classmates.",
+    "options": {
+      "A": "intelligent",
+      "B": "more intelligent",
+      "C": "most intelligent",
+      "D": "very intelligent"
+    },
+    "correct_answer": "B",
+    "explanation": "Long adjectives form comparatives using 'more', so 'more intelligent' is correct."
+  },
+  {
+    "id": 303,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She asked me ___ I could help her.",
+    "options": {
+      "A": "that",
+      "B": "what",
+      "C": "if",
+      "D": "which"
+    },
+    "correct_answer": "C",
+    "explanation": "Indirect yes-or-no questions use 'if' instead of direct question structure."
+  },
+  {
+    "id": 304,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The room was ___ cold for us to stay.",
+    "options": {
+      "A": "so",
+      "B": "very",
+      "C": "too",
+      "D": "enough"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'too + adjective + to' shows excess that prevents an action."
+  },
+  {
+    "id": 305,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He has lived in this city ___ 2018.",
+    "options": {
+      "A": "for",
+      "B": "since",
+      "C": "during",
+      "D": "from"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'since' is used with a specific point in time like a year."
+  },
+  {
+    "id": 306,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She was angry ___ his behavior.",
+    "options": {
+      "A": "with",
+      "B": "at",
+      "C": "for",
+      "D": "on"
+    },
+    "correct_answer": "A",
+    "explanation": "The adjective 'angry' is followed by 'with' when referring to a person."
+  },
+  {
+    "id": 307,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The teacher asked us ___ silent.",
+    "options": {
+      "A": "be",
+      "B": "to be",
+      "C": "being",
+      "D": "been"
+    },
+    "correct_answer": "B",
+    "explanation": "After verbs like 'ask', the infinitive form 'to be' is grammatically correct."
+  },
+  {
+    "id": 308,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He works ___ a manager in that company.",
+    "options": {
+      "A": "like",
+      "B": "as",
+      "C": "with",
+      "D": "for"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'as' is used to describe a person’s role or profession."
+  },
+  {
+    "id": 309,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t have ___ time to prepare.",
+    "options": {
+      "A": "many",
+      "B": "few",
+      "C": "much",
+      "D": "plenty"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'much' is used with uncountable nouns like time in negative sentences."
+  },
+  {
+    "id": 310,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The book was written ___ a famous author.",
+    "options": {
+      "A": "from",
+      "B": "by",
+      "C": "with",
+      "D": "to"
+    },
+    "correct_answer": "B",
+    "explanation": "In passive voice, 'by' is used to indicate the person who performed the action."
+  },
+  {
+    "id": 311,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She speaks ___ clearly to be understood.",
+    "options": {
+      "A": "too",
+      "B": "so",
+      "C": "enough",
+      "D": "very"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'adverb + enough' shows sufficient degree to achieve a result."
+  },
+  {
+    "id": 312,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He was tired, ___ he finished the work.",
+    "options": {
+      "A": "because",
+      "B": "but",
+      "C": "although",
+      "D": "unless"
+    },
+    "correct_answer": "B",
+    "explanation": "The conjunction 'but' is used to show contrast between tiredness and action."
+  },
+  {
+    "id": 313,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She reminded me ___ my documents.",
+    "options": {
+      "A": "bring",
+      "B": "bringing",
+      "C": "to bring",
+      "D": "brought"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'remind' followed by an object takes the infinitive form."
+  },
+  {
+    "id": 314,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The movie was ___ interesting than I expected.",
+    "options": {
+      "A": "much",
+      "B": "very",
+      "C": "more",
+      "D": "most"
+    },
+    "correct_answer": "C",
+    "explanation": "Comparative adjectives use 'more' when comparing two levels of quality."
+  },
+  {
+    "id": 315,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He warned us ___ the slippery road.",
+    "options": {
+      "A": "for",
+      "B": "about",
+      "C": "with",
+      "D": "to"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'warn' is followed by 'about' when referring to danger."
+  },
+  {
+    "id": 316,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t know ___ answer to choose.",
+    "options": {
+      "A": "what",
+      "B": "that",
+      "C": "which",
+      "D": "who"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'which' is used when selecting from a specific set of options."
+  },
+  {
+    "id": 317,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The bus arrived ___ time despite traffic.",
+    "options": {
+      "A": "at",
+      "B": "in",
+      "C": "on",
+      "D": "by"
+    },
+    "correct_answer": "C",
+    "explanation": "The expression 'on time' means arriving at the scheduled time."
+  },
+  {
+    "id": 318,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has ___ friends in this town.",
+    "options": {
+      "A": "little",
+      "B": "much",
+      "C": "few",
+      "D": "less"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'few' is used with countable plural nouns like friends."
+  },
+  {
+    "id": 319,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He forgot ___ the lights before leaving.",
+    "options": {
+      "A": "switch",
+      "B": "switching",
+      "C": "to switch",
+      "D": "switched"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'forget' followed by an infinitive means failing to do an action."
+  },
+  {
+    "id": 320,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The problem was ___ difficult to solve quickly.",
+    "options": {
+      "A": "very",
+      "B": "so",
+      "C": "too",
+      "D": "enough"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'too + adjective + to' shows excess that causes difficulty."
+  },
+  {
+    "id": 321,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She is fond ___ classical music.",
+    "options": {
+      "A": "with",
+      "B": "of",
+      "C": "at",
+      "D": "for"
+    },
+    "correct_answer": "B",
+    "explanation": "The adjective 'fond' is always followed by the preposition 'of'."
+  },
+  {
+    "id": 322,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He works ___ harder than before.",
+    "options": {
+      "A": "very",
+      "B": "much",
+      "C": "too",
+      "D": "so"
+    },
+    "correct_answer": "B",
+    "explanation": "The adverb 'much' is used to intensify comparative forms like 'harder'."
+  },
+  {
+    "id": 323,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She apologized ___ being late.",
+    "options": {
+      "A": "to",
+      "B": "about",
+      "C": "for",
+      "D": "with"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'apologize' is followed by the preposition 'for' and a gerund."
+  },
+  {
+    "id": 324,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The teacher made us ___ the lesson again.",
+    "options": {
+      "A": "read",
+      "B": "to read",
+      "C": "reading",
+      "D": "reads"
+    },
+    "correct_answer": "A",
+    "explanation": "After 'make', the bare infinitive form of the verb is used."
+  },
+  {
+    "id": 325,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t come ___ she was busy.",
+    "options": {
+      "A": "although",
+      "B": "because",
+      "C": "unless",
+      "D": "while"
+    },
+    "correct_answer": "B",
+    "explanation": "The conjunction 'because' explains the reason for not coming."
+  },
+  {
+    "id": 326,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The letter was sent ___ email.",
+    "options": {
+      "A": "by",
+      "B": "with",
+      "C": "through",
+      "D": "from"
+    },
+    "correct_answer": "A",
+    "explanation": "The preposition 'by' is used to show the means of communication."
+  },
+  {
+    "id": 327,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She is ___ than her cousin.",
+    "options": {
+      "A": "more confident",
+      "B": "most confident",
+      "C": "very confident",
+      "D": "confidence"
+    },
+    "correct_answer": "A",
+    "explanation": "The comparative form is used when comparing two people."
+  },
+  {
+    "id": 328,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He has worked here ___ childhood.",
+    "options": {
+      "A": "for",
+      "B": "since",
+      "C": "during",
+      "D": "from"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'since' is used to indicate a starting point in time."
+  },
+  {
+    "id": 329,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She was pleased ___ the results.",
+    "options": {
+      "A": "at",
+      "B": "with",
+      "C": "for",
+      "D": "by"
+    },
+    "correct_answer": "B",
+    "explanation": "The adjective 'pleased' is commonly followed by the preposition 'with'."
+  },
+  {
+    "id": 330,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He asked me ___ help him.",
+    "options": {
+      "A": "if",
+      "B": "to",
+      "C": "that",
+      "D": "for"
+    },
+    "correct_answer": "B",
+    "explanation": "After 'ask' with an object, the infinitive form is used."
+  },
+  {
+    "id": 331,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has ___ interest in sports.",
+    "options": {
+      "A": "many",
+      "B": "much",
+      "C": "few",
+      "D": "less"
+    },
+    "correct_answer": "B",
+    "explanation": "The word 'much' is used with uncountable nouns like interest."
+  },
+  {
+    "id": 332,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He arrived ___ the station early.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "by"
+    },
+    "correct_answer": "C",
+    "explanation": "The preposition 'at' is used with specific places like stations."
+  },
+  {
+    "id": 333,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She was too tired ___ continue working.",
+    "options": {
+      "A": "for",
+      "B": "to",
+      "C": "that",
+      "D": "so"
+    },
+    "correct_answer": "B",
+    "explanation": "The structure 'too + adjective + to + verb' shows inability."
+  },
+  {
+    "id": 334,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The children were excited ___ the festival.",
+    "options": {
+      "A": "for",
+      "B": "with",
+      "C": "about",
+      "D": "at"
+    },
+    "correct_answer": "C",
+    "explanation": "The adjective 'excited' is followed by 'about' when talking about events."
+  },
+  {
+    "id": 335,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He worked ___ harder than last year.",
+    "options": {
+      "A": "very",
+      "B": "much",
+      "C": "too",
+      "D": "so"
+    },
+    "correct_answer": "B",
+    "explanation": "The adverb 'much' intensifies comparative forms like 'harder'."
+  },
+  {
+    "id": 336,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t know ___ book to buy.",
+    "options": {
+      "A": "what",
+      "B": "that",
+      "C": "which",
+      "D": "who"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'which' is used when choosing from specific options."
+  },
+  {
+    "id": 337,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The soup was ___ hot to drink.",
+    "options": {
+      "A": "very",
+      "B": "so",
+      "C": "too",
+      "D": "enough"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'too + adjective + to' expresses excess."
+  },
+  {
+    "id": 338,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has been working here ___ five years.",
+    "options": {
+      "A": "since",
+      "B": "for",
+      "C": "during",
+      "D": "from"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'for' is used to show a period of time."
+  },
+  {
+    "id": 339,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He warned me ___ the risks.",
+    "options": {
+      "A": "for",
+      "B": "about",
+      "C": "with",
+      "D": "to"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'warn' is followed by 'about' when referring to dangers."
+  },
+  {
+    "id": 340,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She speaks ___ enough for everyone to hear.",
+    "options": {
+      "A": "loud",
+      "B": "loudly",
+      "C": "louder",
+      "D": "loudest"
+    },
+    "correct_answer": "B",
+    "explanation": "Adverbs like 'loudly' describe how an action is performed."
+  },
+  {
+    "id": 341,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The teacher was satisfied ___ our performance.",
+    "options": {
+      "A": "with",
+      "B": "at",
+      "C": "for",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "explanation": "The adjective 'satisfied' is commonly followed by the preposition 'with'."
+  },
+  {
+    "id": 342,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He asked her ___ help him.",
+    "options": {
+      "A": "if",
+      "B": "to",
+      "C": "that",
+      "D": "for"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'ask' followed by an object uses the infinitive form."
+  },
+  {
+    "id": 343,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has ___ patience with children.",
+    "options": {
+      "A": "many",
+      "B": "few",
+      "C": "much",
+      "D": "less"
+    },
+    "correct_answer": "C",
+    "explanation": "The noun 'patience' is uncountable, so 'much' is correct."
+  },
+  {
+    "id": 344,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He arrived ___ home late.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "to"
+    },
+    "correct_answer": "C",
+    "explanation": "The preposition 'at' is used before the word 'home' in this context."
+  },
+  {
+    "id": 345,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She was too busy ___ attend the meeting.",
+    "options": {
+      "A": "for",
+      "B": "to",
+      "C": "that",
+      "D": "so"
+    },
+    "correct_answer": "B",
+    "explanation": "The structure 'too + adjective + to + verb' expresses inability."
+  },
+  {
+    "id": 346,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The students were excited ___ the results.",
+    "options": {
+      "A": "with",
+      "B": "for",
+      "C": "about",
+      "D": "at"
+    },
+    "correct_answer": "C",
+    "explanation": "The adjective 'excited' is followed by 'about' when talking about outcomes."
+  },
+  {
+    "id": 347,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He works ___ than his colleagues.",
+    "options": {
+      "A": "hard",
+      "B": "harder",
+      "C": "hardest",
+      "D": "more hard"
+    },
+    "correct_answer": "B",
+    "explanation": "The comparative form 'harder' is used when comparing two or more people."
+  },
+  {
+    "id": 348,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t know ___ way to go.",
+    "options": {
+      "A": "what",
+      "B": "that",
+      "C": "which",
+      "D": "who"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'which' is used when choosing from specific alternatives."
+  },
+  {
+    "id": 349,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The coffee was ___ hot to drink.",
+    "options": {
+      "A": "very",
+      "B": "so",
+      "C": "too",
+      "D": "enough"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'too + adjective + to' indicates excess."
+  },
+  {
+    "id": 350,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has been studying here ___ three years.",
+    "options": {
+      "A": "since",
+      "B": "for",
+      "C": "during",
+      "D": "from"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'for' is used to show duration of time."
+  },
+
+  {
+    "id": 351,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t attend the meeting ___ she was feeling sick.",
+    "options": {
+      "A": "although",
+      "B": "because",
+      "C": "but",
+      "D": "unless"
+    },
+    "correct_answer": "B",
+    "explanation": "The conjunction 'because' is used to clearly explain the reason for not attending the meeting."
+  },
+  {
+    "id": 352,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He is ___ than his younger brother.",
+    "options": {
+      "A": "taller",
+      "B": "tallest",
+      "C": "very tall",
+      "D": "too tall"
+    },
+    "correct_answer": "A",
+    "explanation": "The comparative adjective 'taller' is used when comparing height between two people."
+  },
+  {
+    "id": 353,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She asked me ___ I had finished my work.",
+    "options": {
+      "A": "that",
+      "B": "if",
+      "C": "what",
+      "D": "which"
+    },
+    "correct_answer": "B",
+    "explanation": "Indirect yes-or-no questions commonly use 'if' instead of question word order."
+  },
+  {
+    "id": 354,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The room was ___ dark to read properly.",
+    "options": {
+      "A": "very",
+      "B": "so",
+      "C": "too",
+      "D": "enough"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'too + adjective + to' expresses excess that prevents an action."
+  },
+  {
+    "id": 355,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He has worked in this company ___ 2016.",
+    "options": {
+      "A": "for",
+      "B": "since",
+      "C": "during",
+      "D": "from"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'since' is used with a specific starting point in time like a year."
+  },
+  {
+    "id": 356,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She was upset ___ his rude remarks.",
+    "options": {
+      "A": "with",
+      "B": "at",
+      "C": "for",
+      "D": "on"
+    },
+    "correct_answer": "B",
+    "explanation": "The adjective 'upset' is followed by 'at' when referring to actions or behavior."
+  },
+  {
+    "id": 357,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The manager asked us ___ the report by evening.",
+    "options": {
+      "A": "submit",
+      "B": "submitting",
+      "C": "to submit",
+      "D": "submitted"
+    },
+    "correct_answer": "C",
+    "explanation": "After verbs like 'ask', the infinitive form 'to submit' is grammatically correct."
+  },
+  {
+    "id": 358,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She works ___ a teacher in a private school.",
+    "options": {
+      "A": "like",
+      "B": "as",
+      "C": "with",
+      "D": "for"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'as' is used to describe a person's profession or role."
+  },
+  {
+    "id": 359,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He didn’t have ___ patience to wait.",
+    "options": {
+      "A": "many",
+      "B": "few",
+      "C": "much",
+      "D": "several"
+    },
+    "correct_answer": "C",
+    "explanation": "The noun 'patience' is uncountable, so 'much' is the correct choice."
+  },
+  {
+    "id": 360,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The painting was created ___ a famous artist.",
+    "options": {
+      "A": "from",
+      "B": "by",
+      "C": "with",
+      "D": "to"
+    },
+    "correct_answer": "B",
+    "explanation": "In passive constructions, 'by' introduces the doer of the action."
+  },
+  {
+    "id": 361,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She speaks ___ enough to address a large audience.",
+    "options": {
+      "A": "clear",
+      "B": "clearly",
+      "C": "clarity",
+      "D": "clearest"
+    },
+    "correct_answer": "B",
+    "explanation": "Adverbs like 'clearly' are used to describe how an action is performed."
+  },
+  {
+    "id": 362,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He was tired, ___ he completed the task.",
+    "options": {
+      "A": "because",
+      "B": "but",
+      "C": "although",
+      "D": "unless"
+    },
+    "correct_answer": "B",
+    "explanation": "The conjunction 'but' shows contrast between being tired and completing the task."
+  },
+  {
+    "id": 363,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She reminded him ___ his wallet.",
+    "options": {
+      "A": "bring",
+      "B": "bringing",
+      "C": "to bring",
+      "D": "brought"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'remind' followed by an object takes the infinitive form."
+  },
+  {
+    "id": 364,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The exam was ___ difficult than expected.",
+    "options": {
+      "A": "much",
+      "B": "very",
+      "C": "more",
+      "D": "most"
+    },
+    "correct_answer": "C",
+    "explanation": "Comparative adjectives require 'more' when comparing two levels of difficulty."
+  },
+  {
+    "id": 365,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He warned us ___ the heavy traffic.",
+    "options": {
+      "A": "for",
+      "B": "about",
+      "C": "with",
+      "D": "to"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'warn' is followed by 'about' when referring to a possible danger."
+  },
+  {
+    "id": 366,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t know ___ option was correct.",
+    "options": {
+      "A": "what",
+      "B": "that",
+      "C": "which",
+      "D": "who"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'which' is used when choosing from a specific set of options."
+  },
+  {
+    "id": 367,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The train arrived ___ time despite the delay.",
+    "options": {
+      "A": "at",
+      "B": "in",
+      "C": "on",
+      "D": "by"
+    },
+    "correct_answer": "C",
+    "explanation": "The phrase 'on time' means arriving at the scheduled or expected time."
+  },
+  {
+    "id": 368,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has ___ cousins living nearby.",
+    "options": {
+      "A": "little",
+      "B": "much",
+      "C": "few",
+      "D": "less"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'few' is used with countable plural nouns like cousins."
+  },
+  {
+    "id": 369,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He forgot ___ the door before leaving.",
+    "options": {
+      "A": "lock",
+      "B": "locking",
+      "C": "to lock",
+      "D": "locked"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'forget' followed by an infinitive means failing to perform an action."
+  },
+  {
+    "id": 370,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The task was ___ difficult to finish quickly.",
+    "options": {
+      "A": "very",
+      "B": "so",
+      "C": "too",
+      "D": "enough"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'too + adjective + to' expresses excess that prevents quick completion."
+  },
+  {
+    "id": 371,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She is fond ___ reading novels.",
+    "options": {
+      "A": "with",
+      "B": "of",
+      "C": "at",
+      "D": "for"
+    },
+    "correct_answer": "B",
+    "explanation": "The adjective 'fond' is always followed by the preposition 'of'."
+  },
+  {
+    "id": 372,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He works ___ harder than before.",
+    "options": {
+      "A": "very",
+      "B": "much",
+      "C": "too",
+      "D": "so"
+    },
+    "correct_answer": "B",
+    "explanation": "The adverb 'much' is used to intensify comparative forms like 'harder'."
+  },
+  {
+    "id": 373,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She apologized ___ forgetting the meeting.",
+    "options": {
+      "A": "to",
+      "B": "about",
+      "C": "for",
+      "D": "with"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'apologize' is followed by 'for' and a gerund form of the verb."
+  },
+  {
+    "id": 374,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The teacher made us ___ the test again.",
+    "options": {
+      "A": "write",
+      "B": "to write",
+      "C": "writing",
+      "D": "writes"
+    },
+    "correct_answer": "A",
+    "explanation": "After the verb 'make', the bare infinitive form is used."
+  },
+  {
+    "id": 375,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t come ___ she had other plans.",
+    "options": {
+      "A": "although",
+      "B": "because",
+      "C": "unless",
+      "D": "while"
+    },
+    "correct_answer": "B",
+    "explanation": "The conjunction 'because' explains the reason for her absence."
+  },
+  {
+    "id": 376,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The message was sent ___ phone.",
+    "options": {
+      "A": "by",
+      "B": "with",
+      "C": "through",
+      "D": "from"
+    },
+    "correct_answer": "A",
+    "explanation": "The preposition 'by' is used to show the means of communication."
+  },
+  {
+    "id": 377,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She is ___ than her friend at sports.",
+    "options": {
+      "A": "better",
+      "B": "best",
+      "C": "very good",
+      "D": "good"
+    },
+    "correct_answer": "A",
+    "explanation": "The comparative adjective 'better' is used to compare abilities between two people."
+  },
+  {
+    "id": 378,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He has lived here ___ his childhood.",
+    "options": {
+      "A": "for",
+      "B": "since",
+      "C": "during",
+      "D": "from"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'since' shows the starting point of an action in time."
+  },
+  {
+    "id": 379,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She was pleased ___ the feedback.",
+    "options": {
+      "A": "at",
+      "B": "with",
+      "C": "for",
+      "D": "by"
+    },
+    "correct_answer": "B",
+    "explanation": "The adjective 'pleased' is followed by 'with' when referring to results or feedback."
+  },
+  {
+    "id": 380,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He asked me ___ help him with the task.",
+    "options": {
+      "A": "if",
+      "B": "to",
+      "C": "that",
+      "D": "for"
+    },
+    "correct_answer": "B",
+    "explanation": "After 'ask' with an object, the infinitive form 'to help' is used."
+  },
+  {
+    "id": 381,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has ___ confidence in her skills.",
+    "options": {
+      "A": "many",
+      "B": "few",
+      "C": "much",
+      "D": "less"
+    },
+    "correct_answer": "C",
+    "explanation": "The noun 'confidence' is uncountable, so 'much' is the correct choice."
+  },
+  {
+    "id": 382,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He arrived ___ the office early.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "by"
+    },
+    "correct_answer": "C",
+    "explanation": "The preposition 'at' is used with specific places like offices."
+  },
+  {
+    "id": 383,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She was too busy ___ reply to the email.",
+    "options": {
+      "A": "for",
+      "B": "to",
+      "C": "that",
+      "D": "so"
+    },
+    "correct_answer": "B",
+    "explanation": "The structure 'too + adjective + to + verb' expresses inability to act."
+  },
+  {
+    "id": 384,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The children were excited ___ the competition.",
+    "options": {
+      "A": "for",
+      "B": "with",
+      "C": "about",
+      "D": "at"
+    },
+    "correct_answer": "C",
+    "explanation": "The adjective 'excited' is followed by 'about' when referring to events."
+  },
+  {
+    "id": 385,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He works ___ than his teammates.",
+    "options": {
+      "A": "hard",
+      "B": "harder",
+      "C": "hardest",
+      "D": "more hard"
+    },
+    "correct_answer": "B",
+    "explanation": "The comparative form 'harder' is used when comparing effort between people."
+  },
+  {
+    "id": 386,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t know ___ route to take.",
+    "options": {
+      "A": "what",
+      "B": "that",
+      "C": "which",
+      "D": "who"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'which' is used when choosing between specific alternatives."
+  },
+  {
+    "id": 387,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The water was ___ cold to swim in.",
+    "options": {
+      "A": "very",
+      "B": "so",
+      "C": "too",
+      "D": "enough"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'too + adjective + to' shows excess that prevents an activity."
+  },
+  {
+    "id": 388,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has been studying English ___ four years.",
+    "options": {
+      "A": "since",
+      "B": "for",
+      "C": "during",
+      "D": "from"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'for' is used to show the duration of time."
+  },
+  {
+    "id": 389,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He warned her ___ the consequences.",
+    "options": {
+      "A": "for",
+      "B": "about",
+      "C": "with",
+      "D": "to"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'warn' is followed by 'about' when mentioning possible outcomes."
+  },
+  {
+    "id": 390,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She speaks ___ enough to be heard clearly.",
+    "options": {
+      "A": "loud",
+      "B": "loudly",
+      "C": "louder",
+      "D": "loudest"
+    },
+    "correct_answer": "B",
+    "explanation": "Adverbs like 'loudly' describe how the speaking action is performed."
+  },
+  {
+    "id": 391,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The manager was satisfied ___ the progress.",
+    "options": {
+      "A": "with",
+      "B": "at",
+      "C": "for",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "explanation": "The adjective 'satisfied' is commonly followed by the preposition 'with'."
+  },
+  {
+    "id": 392,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He asked her ___ join the team.",
+    "options": {
+      "A": "if",
+      "B": "to",
+      "C": "that",
+      "D": "for"
+    },
+    "correct_answer": "B",
+    "explanation": "After 'ask' with an object, the infinitive form 'to join' is required."
+  },
+  {
+    "id": 393,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has ___ interest in painting.",
+    "options": {
+      "A": "many",
+      "B": "few",
+      "C": "much",
+      "D": "less"
+    },
+    "correct_answer": "C",
+    "explanation": "The noun 'interest' is uncountable, so 'much' is grammatically correct."
+  },
+  {
+    "id": 394,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He arrived ___ the hotel late at night.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "by"
+    },
+    "correct_answer": "C",
+    "explanation": "The preposition 'at' is used for specific locations like hotels."
+  },
+  {
+    "id": 395,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She was too nervous ___ speak in public.",
+    "options": {
+      "A": "for",
+      "B": "to",
+      "C": "that",
+      "D": "so"
+    },
+    "correct_answer": "B",
+    "explanation": "The structure 'too + adjective + to + verb' expresses inability due to excess."
+  },
+  {
+    "id": 396,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The students were excited ___ the announcement.",
+    "options": {
+      "A": "with",
+      "B": "for",
+      "C": "about",
+      "D": "at"
+    },
+    "correct_answer": "C",
+    "explanation": "The adjective 'excited' is followed by 'about' when referring to news or announcements."
+  },
+  {
+    "id": 397,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "He works ___ than anyone else in the team.",
+    "options": {
+      "A": "hard",
+      "B": "harder",
+      "C": "hardest",
+      "D": "more hard"
+    },
+    "correct_answer": "B",
+    "explanation": "The comparative 'harder' is appropriate when comparing one person with others."
+  },
+  {
+    "id": 398,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She didn’t know ___ dress to wear.",
+    "options": {
+      "A": "what",
+      "B": "that",
+      "C": "which",
+      "D": "who"
+    },
+    "correct_answer": "C",
+    "explanation": "The word 'which' is used when choosing from a limited set of items."
+  },
+  {
+    "id": 399,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "The tea was ___ hot to drink comfortably.",
+    "options": {
+      "A": "very",
+      "B": "so",
+      "C": "too",
+      "D": "enough"
+    },
+    "correct_answer": "C",
+    "explanation": "The structure 'too + adjective + to' shows excess that causes discomfort."
+  },
+  {
+    "id": 400,
+    "subject": "English",
+    "difficulty": "Medium",
+    "question": "She has been working here ___ six months.",
+    "options": {
+      "A": "since",
+      "B": "for",
+      "C": "during",
+      "D": "from"
+    },
+    "correct_answer": "B",
+    "explanation": "The preposition 'for' is used to indicate a duration of time."
+  },
+
+
+
+
+
+
+
+
+
+
