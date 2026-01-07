@@ -19,14 +19,26 @@ easy_qs = [q for q in questions if q["difficulty"] == "Easy"]
 medium_qs = [q for q in questions if q["difficulty"] == "Medium"]
 hard_qs = [q for q in questions if q["difficulty"] == "Hard"]
 
-# ---------------- SESSION STATE INIT ----------------
+# ---------------- SESSION STATE INIT (SAFE) ----------------
+if "difficulty" not in st.session_state:
+    st.session_state.difficulty = "Easy"
+
 if "current_q" not in st.session_state:
     st.session_state.current_q = random.choice(easy_qs)
-    st.session_state.difficulty = "Easy"
+
+if "score" not in st.session_state:
     st.session_state.score = 0
+
+if "total" not in st.session_state:
     st.session_state.total = 0
+
+if "correct_streak" not in st.session_state:
     st.session_state.correct_streak = 0
+
+if "answered" not in st.session_state:
     st.session_state.answered = False
+
+if "selected_option" not in st.session_state:
     st.session_state.selected_option = None
 
 # ---------------- GET NEXT QUESTION ----------------
@@ -37,7 +49,6 @@ def get_next_question():
         pool = medium_qs
     else:
         pool = hard_qs
-
     return random.choice(pool)
 
 # ---------------- UI ----------------
@@ -48,7 +59,6 @@ st.write(f"**Score:** {st.session_state.score} / {st.session_state.total}")
 st.write(f"**Correct Streak:** {st.session_state.correct_streak}")
 
 q = st.session_state.current_q
-
 st.subheader(q["question"])
 
 choice = st.radio(
@@ -58,7 +68,7 @@ choice = st.radio(
     key="choice_radio"
 )
 
-# ---------------- SUBMIT ANSWER ----------------
+# ---------------- SUBMIT ----------------
 if st.button("Submit", disabled=st.session_state.answered):
     st.session_state.selected_option = choice
     st.session_state.answered = True
@@ -72,18 +82,17 @@ if st.button("Submit", disabled=st.session_state.answered):
         st.session_state.correct_streak = 0
         st.error("❌ Wrong")
 
-# ---------------- SHOW CORRECT ANSWER ----------------
+# ---------------- SHOW ANSWER ----------------
 if st.session_state.answered:
     st.info(
-        f"**Your Answer:** {st.session_state.selected_option}  \n"
+        f"**Your Answer:** {st.session_state.selected_option}\n\n"
         f"**Correct Answer:** {q['correct_answer']} — {q['options'][q['correct_answer']]}"
     )
     st.write("📘 **Explanation:**")
     st.write(q["explanation"])
 
-    # ---------------- NEXT QUESTION ----------------
     if st.button("Next Question"):
-        # ADAPTIVE RULE
+        # Adaptive rule: 3 correct → level up
         if st.session_state.correct_streak >= 3:
             if st.session_state.difficulty == "Easy":
                 st.session_state.difficulty = "Medium"
