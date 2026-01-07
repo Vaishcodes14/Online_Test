@@ -5608,6 +5608,1407 @@
     "explanation": "The preposition 'for' is used to indicate a duration of time."
   },
 
+  {
+    "id": 401,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Had she known about the delay, she ___ earlier.",
+    "options": {
+      "A": "will leave",
+      "B": "would leave",
+      "C": "would have left",
+      "D": "had left"
+    },
+    "correct_answer": "C",
+    "explanation": "This is an inverted third conditional sentence, which uses 'would have' with the past participle."
+  },
+  {
+    "id": 402,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Neither the manager nor his assistants ___ present at the meeting.",
+    "options": {
+      "A": "was",
+      "B": "were",
+      "C": "is",
+      "D": "has been"
+    },
+    "correct_answer": "B",
+    "explanation": "With 'neither…nor', the verb agrees with the nearest subject, which is plural here."
+  },
+  {
+    "id": 403,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She speaks as though she ___ the answer already.",
+    "options": {
+      "A": "knows",
+      "B": "knew",
+      "C": "has known",
+      "D": "had known"
+    },
+    "correct_answer": "B",
+    "explanation": "After 'as though' to express unreality, the past tense is used for present meaning."
+  },
+  {
+    "id": 404,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "No sooner had the train arrived ___ the passengers rushed out.",
+    "options": {
+      "A": "when",
+      "B": "than",
+      "C": "then",
+      "D": "while"
+    },
+    "correct_answer": "B",
+    "explanation": "The fixed correlative structure is 'no sooner…than' to show immediate sequence."
+  },
+  {
+    "id": 405,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The professor, along with his research team, ___ invited to the seminar.",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "have been"
+    },
+    "correct_answer": "C",
+    "explanation": "Phrases like 'along with' do not affect verb agreement, so the verb matches the singular subject."
+  },
+  {
+    "id": 406,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Hardly ___ the speech ended when the audience stood up.",
+    "options": {
+      "A": "did",
+      "B": "has",
+      "C": "had",
+      "D": "was"
+    },
+    "correct_answer": "C",
+    "explanation": "After 'hardly', inversion with past perfect tense using 'had' is required."
+  },
+  {
+    "id": 407,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "He suggested that the proposal ___ revised immediately.",
+    "options": {
+      "A": "is",
+      "B": "was",
+      "C": "be",
+      "D": "has been"
+    },
+    "correct_answer": "C",
+    "explanation": "Verbs of suggestion use the subjunctive mood, which takes the base form of the verb."
+  },
+  {
+    "id": 408,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The number of applicants ___ increased significantly this year.",
+    "options": {
+      "A": "have",
+      "B": "are",
+      "C": "has",
+      "D": "were"
+    },
+    "correct_answer": "C",
+    "explanation": "The subject 'the number' is singular, so it takes a singular verb."
+  },
+  {
+    "id": 409,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She denied ___ the confidential information.",
+    "options": {
+      "A": "to leak",
+      "B": "leak",
+      "C": "leaking",
+      "D": "leaked"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'deny' is followed by a gerund form, not an infinitive."
+  },
+  {
+    "id": 410,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Each of the candidates ___ required to submit an ID proof.",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "have",
+      "D": "is"
+    },
+    "correct_answer": "D",
+    "explanation": "The determiner 'each' is singular and therefore takes a singular verb."
+  },
+  {
+    "id": 411,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "He is one of the players who ___ consistently well.",
+    "options": {
+      "A": "plays",
+      "B": "play",
+      "C": "has played",
+      "D": "played"
+    },
+    "correct_answer": "B",
+    "explanation": "When 'who' refers to a plural noun like 'players', the verb must be plural."
+  },
+  {
+    "id": 412,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The more carefully you read, the ___ you understand.",
+    "options": {
+      "A": "good",
+      "B": "better",
+      "C": "best",
+      "D": "well"
+    },
+    "correct_answer": "B",
+    "explanation": "This correlative comparative structure uses 'the more…the better' to show proportional increase."
+  },
+  {
+    "id": 413,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She is not used to ___ alone in a new city.",
+    "options": {
+      "A": "live",
+      "B": "lives",
+      "C": "living",
+      "D": "lived"
+    },
+    "correct_answer": "C",
+    "explanation": "The phrase 'used to' meaning accustomed to is followed by a gerund."
+  },
+  {
+    "id": 414,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Had they informed us earlier, we ___ prepared better.",
+    "options": {
+      "A": "will be",
+      "B": "would be",
+      "C": "would have been",
+      "D": "had been"
+    },
+    "correct_answer": "C",
+    "explanation": "This is a third conditional sentence requiring 'would have been' in the result clause."
+  },
+  {
+    "id": 415,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The committee ___ unable to reach a final decision.",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "have"
+    },
+    "correct_answer": "C",
+    "explanation": "Collective nouns take a singular verb when acting as a single unit."
+  },
+  {
+    "id": 416,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Scarcely ___ the meeting begun when the power went out.",
+    "options": {
+      "A": "did",
+      "B": "has",
+      "C": "had",
+      "D": "was"
+    },
+    "correct_answer": "C",
+    "explanation": "With 'scarcely', inversion using the past perfect tense is required."
+  },
+  {
+    "id": 417,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She insisted that he ___ the truth immediately.",
+    "options": {
+      "A": "tells",
+      "B": "told",
+      "C": "tell",
+      "D": "has told"
+    },
+    "correct_answer": "C",
+    "explanation": "The subjunctive mood is used after verbs like insist, requiring the base verb form."
+  },
+  {
+    "id": 418,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The furniture ___ delivered before noon.",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "have"
+    },
+    "correct_answer": "C",
+    "explanation": "The noun 'furniture' is uncountable and therefore takes a singular verb."
+  },
+  {
+    "id": 419,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "He apologized for ___ such a serious mistake.",
+    "options": {
+      "A": "make",
+      "B": "made",
+      "C": "making",
+      "D": "to make"
+    },
+    "correct_answer": "C",
+    "explanation": "The preposition 'for' must be followed by a gerund form of the verb."
+  },
+  {
+    "id": 420,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The teacher asked whether the assignments ___ submitted on time.",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "have been",
+      "D": "will be"
+    },
+    "correct_answer": "B",
+    "explanation": "In reported speech, present tense often shifts to past tense after a past reporting verb."
+  },
+  {
+    "id": 421,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Only after the test ___ how difficult it was.",
+    "options": {
+      "A": "we realized",
+      "B": "did we realize",
+      "C": "we did realize",
+      "D": "had we realized"
+    },
+    "correct_answer": "B",
+    "explanation": "When a sentence begins with a negative or limiting adverb, inversion is required."
+  },
+  {
+    "id": 422,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The judge ordered that the prisoner ___ released immediately.",
+    "options": {
+      "A": "is",
+      "B": "was",
+      "C": "be",
+      "D": "has been"
+    },
+    "correct_answer": "C",
+    "explanation": "The subjunctive mood is used in formal commands, requiring the base verb form."
+  },
+  {
+    "id": 423,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "A number of students ___ absent yesterday.",
+    "options": {
+      "A": "was",
+      "B": "is",
+      "C": "were",
+      "D": "has been"
+    },
+    "correct_answer": "C",
+    "explanation": "'A number of' is treated as plural and therefore takes a plural verb."
+  },
+  {
+    "id": 424,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She behaves as if she ___ the owner of the company.",
+    "options": {
+      "A": "is",
+      "B": "was",
+      "C": "were",
+      "D": "has been"
+    },
+    "correct_answer": "C",
+    "explanation": "In unreal present situations, 'were' is used for all subjects after 'as if'."
+  },
+  {
+    "id": 425,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The report needs ___ before submission.",
+    "options": {
+      "A": "revise",
+      "B": "revised",
+      "C": "revising",
+      "D": "to revised"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'need' can be followed by a gerund to express passive meaning."
+  },
+  {
+    "id": 426,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Little ___ about the risks involved.",
+    "options": {
+      "A": "she knows",
+      "B": "does she know",
+      "C": "she knew",
+      "D": "did she knew"
+    },
+    "correct_answer": "B",
+    "explanation": "Sentences starting with 'little' require inversion using an auxiliary verb."
+  },
+  {
+    "id": 427,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The CEO demanded that the issue ___ immediately.",
+    "options": {
+      "A": "is resolved",
+      "B": "was resolved",
+      "C": "be resolved",
+      "D": "has been resolved"
+    },
+    "correct_answer": "C",
+    "explanation": "Formal demands use the subjunctive mood, which takes the base verb form."
+  },
+  {
+    "id": 428,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Not only ___ late, but he also forgot the documents.",
+    "options": {
+      "A": "he was",
+      "B": "was he",
+      "C": "he had been",
+      "D": "did he be"
+    },
+    "correct_answer": "B",
+    "explanation": "After 'not only' at the beginning, subject-auxiliary inversion is required."
+  },
+  {
+    "id": 429,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The police ___ investigating the matter for weeks.",
+    "options": {
+      "A": "is",
+      "B": "was",
+      "C": "has been",
+      "D": "have been"
+    },
+    "correct_answer": "D",
+    "explanation": "The noun 'police' is treated as plural and therefore takes a plural verb."
+  },
+  {
+    "id": 430,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She would rather you ___ her decision.",
+    "options": {
+      "A": "respect",
+      "B": "respected",
+      "C": "will respect",
+      "D": "have respected"
+    },
+    "correct_answer": "B",
+    "explanation": "After 'would rather', the past tense is used to express preference."
+  },
+  {
+    "id": 431,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The team celebrated ___ winning the championship.",
+    "options": {
+      "A": "to",
+      "B": "for",
+      "C": "on",
+      "D": "by"
+    },
+    "correct_answer": "D",
+    "explanation": "The preposition 'by' is used to show the method or means of celebration."
+  },
+  {
+    "id": 432,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Seldom ___ such dedication among young employees.",
+    "options": {
+      "A": "we see",
+      "B": "do we see",
+      "C": "we saw",
+      "D": "did we saw"
+    },
+    "correct_answer": "B",
+    "explanation": "Negative adverbs like 'seldom' at the beginning require subject-auxiliary inversion."
+  },
+  {
+    "id": 433,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The scientist is credited ___ discovering the new element.",
+    "options": {
+      "A": "to",
+      "B": "for",
+      "C": "with",
+      "D": "by"
+    },
+    "correct_answer": "C",
+    "explanation": "The correct collocation is 'credited with' followed by a gerund."
+  },
+  {
+    "id": 434,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "He acted as though nothing ___ happened.",
+    "options": {
+      "A": "has",
+      "B": "had",
+      "C": "was",
+      "D": "is"
+    },
+    "correct_answer": "B",
+    "explanation": "For unreal past situations after 'as though', the past perfect tense is used."
+  },
+  {
+    "id": 435,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The contract is subject ___ approval by the board.",
+    "options": {
+      "A": "for",
+      "B": "to",
+      "C": "with",
+      "D": "by"
+    },
+    "correct_answer": "B",
+    "explanation": "The fixed expression is 'subject to', meaning dependent on a condition."
+  },
+  {
+    "id": 436,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Rarely ___ such a convincing argument.",
+    "options": {
+      "A": "we hear",
+      "B": "do we hear",
+      "C": "we heard",
+      "D": "did we heard"
+    },
+    "correct_answer": "B",
+    "explanation": "Beginning a sentence with 'rarely' requires inversion using an auxiliary verb."
+  },
+  {
+    "id": 437,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The company prevented him ___ accessing the data.",
+    "options": {
+      "A": "to",
+      "B": "from",
+      "C": "for",
+      "D": "by"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'prevent' is followed by 'from' and a gerund form."
+  },
+  {
+    "id": 438,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She objected ___ being treated unfairly.",
+    "options": {
+      "A": "to",
+      "B": "for",
+      "C": "with",
+      "D": "about"
+    },
+    "correct_answer": "A",
+    "explanation": "The verb 'object' is followed by the preposition 'to' and a gerund."
+  },
+  {
+    "id": 439,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The director had the scene ___ again.",
+    "options": {
+      "A": "shoot",
+      "B": "shot",
+      "C": "shooting",
+      "D": "to shoot"
+    },
+    "correct_answer": "B",
+    "explanation": "The causative structure 'have something done' uses the past participle."
+  },
+  {
+    "id": 440,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The explanation was clear enough ___ everyone understood it.",
+    "options": {
+      "A": "that",
+      "B": "so that",
+      "C": "to",
+      "D": "for"
+    },
+    "correct_answer": "B",
+    "explanation": "'So that' is used to express result or purpose following an adjective."
+  },
+  {
+    "id": 441,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "He speaks French ___ a native speaker.",
+    "options": {
+      "A": "like",
+      "B": "as",
+      "C": "such as",
+      "D": "similar"
+    },
+    "correct_answer": "A",
+    "explanation": "'Like' is used to compare manner or similarity, while 'as' shows actual role."
+  },
+  {
+    "id": 442,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The company decided to phase ___ the old system.",
+    "options": {
+      "A": "away",
+      "B": "off",
+      "C": "out",
+      "D": "down"
+    },
+    "correct_answer": "C",
+    "explanation": "The phrasal verb 'phase out' means to gradually stop using something."
+  },
+  {
+    "id": 443,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She takes pride ___ her achievements.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "for",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "explanation": "The fixed expression is 'take pride in', followed by a noun or gerund."
+  },
+  {
+    "id": 444,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "He was accused ___ violating company policy.",
+    "options": {
+      "A": "for",
+      "B": "of",
+      "C": "with",
+      "D": "by"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'accuse' is followed by the preposition 'of'."
+  },
+  {
+    "id": 445,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The success of the plan depends ___ proper execution.",
+    "options": {
+      "A": "for",
+      "B": "on",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'depend' is followed by the preposition 'on'."
+  },
+  {
+    "id": 446,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Only by working together ___ the goal be achieved.",
+    "options": {
+      "A": "can",
+      "B": "could",
+      "C": "will",
+      "D": "should"
+    },
+    "correct_answer": "A",
+    "explanation": "Inversion is required after 'only by', using the modal auxiliary 'can'."
+  },
+  {
+    "id": 447,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The manager had the report ___ before the meeting.",
+    "options": {
+      "A": "prepare",
+      "B": "prepared",
+      "C": "preparing",
+      "D": "to prepare"
+    },
+    "correct_answer": "B",
+    "explanation": "The causative structure 'have something done' requires a past participle."
+  },
+  {
+    "id": 448,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She is regarded ___ one of the best performers.",
+    "options": {
+      "A": "as",
+      "B": "for",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "explanation": "The verb 'regard' is followed by 'as' when expressing opinion or classification."
+  },
+  {
+    "id": 449,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The instructions were too complex ___ follow easily.",
+    "options": {
+      "A": "for",
+      "B": "to",
+      "C": "that",
+      "D": "so"
+    },
+    "correct_answer": "B",
+    "explanation": "The structure 'too + adjective + to' shows excess that prevents an action."
+  },
+  {
+    "id": 450,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She would sooner resign than ___ her principles.",
+    "options": {
+      "A": "compromise",
+      "B": "compromised",
+      "C": "compromising",
+      "D": "to compromise"
+    },
+    "correct_answer": "A",
+    "explanation": "After 'would sooner…than', the base form of the verb is used."
+  },
+  {
+    "id": 451,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Barely ___ the announcement made when the crowd reacted.",
+    "options": {
+      "A": "was",
+      "B": "had",
+      "C": "did",
+      "D": "has"
+    },
+    "correct_answer": "B",
+    "explanation": "After negative adverbs like 'barely', inversion with past perfect tense using 'had' is required."
+  },
+  {
+    "id": 452,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The manager demanded that the issue ___ immediately.",
+    "options": {
+      "A": "is solved",
+      "B": "was solved",
+      "C": "be solved",
+      "D": "has solved"
+    },
+    "correct_answer": "C",
+    "explanation": "Formal demands use the subjunctive mood, which takes the base verb form."
+  },
+  {
+    "id": 453,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "He behaves as if he ___ everything about the project.",
+    "options": {
+      "A": "knows",
+      "B": "knew",
+      "C": "has known",
+      "D": "had known"
+    },
+    "correct_answer": "B",
+    "explanation": "After 'as if' for unreal present situations, the past tense is used."
+  },
+  {
+    "id": 454,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Not until the results were announced ___ the truth.",
+    "options": {
+      "A": "we realized",
+      "B": "did we realize",
+      "C": "we did realize",
+      "D": "had we realized"
+    },
+    "correct_answer": "B",
+    "explanation": "Sentences beginning with limiting expressions require subject-auxiliary inversion."
+  },
+  {
+    "id": 455,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The jury ___ divided in their opinion.",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "have"
+    },
+    "correct_answer": "C",
+    "explanation": "Collective nouns take a singular verb when acting as a single unit."
+  },
+  {
+    "id": 456,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She insisted on ___ the document personally.",
+    "options": {
+      "A": "check",
+      "B": "checked",
+      "C": "checking",
+      "D": "to check"
+    },
+    "correct_answer": "C",
+    "explanation": "The preposition 'on' must be followed by a gerund form of the verb."
+  },
+  {
+    "id": 457,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The CEO had the proposal ___ by legal experts.",
+    "options": {
+      "A": "review",
+      "B": "reviewed",
+      "C": "reviewing",
+      "D": "to review"
+    },
+    "correct_answer": "B",
+    "explanation": "The causative structure 'have something done' requires a past participle."
+  },
+  {
+    "id": 458,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Little ___ about the risks before investing.",
+    "options": {
+      "A": "he knew",
+      "B": "did he know",
+      "C": "he knows",
+      "D": "does he know"
+    },
+    "correct_answer": "B",
+    "explanation": "Negative adverbs like 'little' require inversion using an auxiliary verb."
+  },
+  {
+    "id": 459,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She objected ___ being interrupted repeatedly.",
+    "options": {
+      "A": "for",
+      "B": "with",
+      "C": "to",
+      "D": "about"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'object' is followed by 'to' and a gerund form."
+  },
+  {
+    "id": 460,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The number of complaints ___ dropped significantly.",
+    "options": {
+      "A": "have",
+      "B": "are",
+      "C": "has",
+      "D": "were"
+    },
+    "correct_answer": "C",
+    "explanation": "The subject 'the number' is singular and therefore takes a singular verb."
+  },
+  {
+    "id": 461,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She would rather he ___ earlier.",
+    "options": {
+      "A": "arrives",
+      "B": "arrived",
+      "C": "will arrive",
+      "D": "has arrived"
+    },
+    "correct_answer": "B",
+    "explanation": "After 'would rather', the past tense is used to express preference."
+  },
+  {
+    "id": 462,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Seldom ___ such dedication in the workplace.",
+    "options": {
+      "A": "we see",
+      "B": "do we see",
+      "C": "we saw",
+      "D": "did we saw"
+    },
+    "correct_answer": "B",
+    "explanation": "Negative adverbs at the beginning of sentences require inversion."
+  },
+  {
+    "id": 463,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The athlete is credited ___ breaking the world record.",
+    "options": {
+      "A": "to",
+      "B": "for",
+      "C": "with",
+      "D": "by"
+    },
+    "correct_answer": "C",
+    "explanation": "The correct collocation is 'credited with' followed by a gerund."
+  },
+  {
+    "id": 464,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "He spoke as though nothing ___ wrong.",
+    "options": {
+      "A": "has gone",
+      "B": "had gone",
+      "C": "went",
+      "D": "goes"
+    },
+    "correct_answer": "B",
+    "explanation": "Unreal past situations after 'as though' require past perfect tense."
+  },
+  {
+    "id": 465,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The contract is subject ___ approval from headquarters.",
+    "options": {
+      "A": "for",
+      "B": "to",
+      "C": "with",
+      "D": "by"
+    },
+    "correct_answer": "B",
+    "explanation": "The fixed phrase 'subject to' means dependent on a condition."
+  },
+  {
+    "id": 466,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Rarely ___ such professionalism displayed.",
+    "options": {
+      "A": "we have",
+      "B": "do we have",
+      "C": "have we",
+      "D": "we had"
+    },
+    "correct_answer": "C",
+    "explanation": "With 'rarely' at the beginning, inversion with auxiliary verb is required."
+  },
+  {
+    "id": 467,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The company prevented employees ___ accessing confidential data.",
+    "options": {
+      "A": "to",
+      "B": "from",
+      "C": "for",
+      "D": "by"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'prevent' is followed by 'from' and a gerund."
+  },
+  {
+    "id": 468,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She takes pride ___ her academic achievements.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "for",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "explanation": "The fixed expression is 'take pride in'."
+  },
+  {
+    "id": 469,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "He was accused ___ leaking confidential information.",
+    "options": {
+      "A": "for",
+      "B": "with",
+      "C": "of",
+      "D": "by"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'accuse' is always followed by the preposition 'of'."
+  },
+  {
+    "id": 470,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The success of the project depends ___ teamwork.",
+    "options": {
+      "A": "for",
+      "B": "on",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'depend' takes the preposition 'on'."
+  },
+  {
+    "id": 471,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Only after careful analysis ___ the error detected.",
+    "options": {
+      "A": "was",
+      "B": "were",
+      "C": "did",
+      "D": "has"
+    },
+    "correct_answer": "A",
+    "explanation": "Inversion is required after 'only after', and passive voice fits the meaning."
+  },
+  {
+    "id": 472,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The manager had the schedule ___ before approval.",
+    "options": {
+      "A": "revise",
+      "B": "revised",
+      "C": "revising",
+      "D": "to revise"
+    },
+    "correct_answer": "B",
+    "explanation": "The causative structure 'have something done' uses the past participle."
+  },
+  {
+    "id": 473,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She is regarded ___ an expert in her field.",
+    "options": {
+      "A": "as",
+      "B": "for",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "explanation": "The verb 'regard' is followed by 'as' to express classification."
+  },
+  {
+    "id": 474,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The instructions were too complicated ___ understand easily.",
+    "options": {
+      "A": "for",
+      "B": "to",
+      "C": "that",
+      "D": "so"
+    },
+    "correct_answer": "B",
+    "explanation": "The structure 'too + adjective + to' expresses excess that prevents action."
+  },
+  {
+    "id": 475,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She would sooner quit than ___ unfair practices.",
+    "options": {
+      "A": "accept",
+      "B": "accepted",
+      "C": "accepting",
+      "D": "to accept"
+    },
+    "correct_answer": "A",
+    "explanation": "After 'would sooner…than', the base form of the verb is used."
+  },
+  {
+    "id": 476,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Hardly ___ the decision announced when protests began.",
+    "options": {
+      "A": "did",
+      "B": "has",
+      "C": "had",
+      "D": "was"
+    },
+    "correct_answer": "C",
+    "explanation": "After 'hardly', inversion with past perfect tense is required."
+  },
+  {
+    "id": 477,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The board recommended that the policy ___ revised.",
+    "options": {
+      "A": "is",
+      "B": "was",
+      "C": "be",
+      "D": "has been"
+    },
+    "correct_answer": "C",
+    "explanation": "Formal recommendations use the subjunctive mood with base verb form."
+  },
+  {
+    "id": 478,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "A number of employees ___ raised concerns.",
+    "options": {
+      "A": "has",
+      "B": "was",
+      "C": "have",
+      "D": "is"
+    },
+    "correct_answer": "C",
+    "explanation": "'A number of' is treated as plural and takes a plural verb."
+  },
+  {
+    "id": 479,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She acts as if she ___ in charge.",
+    "options": {
+      "A": "is",
+      "B": "was",
+      "C": "were",
+      "D": "has been"
+    },
+    "correct_answer": "C",
+    "explanation": "Unreal present situations after 'as if' use 'were' for all subjects."
+  },
+  {
+    "id": 480,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The proposal needs ___ before final approval.",
+    "options": {
+      "A": "review",
+      "B": "reviewed",
+      "C": "reviewing",
+      "D": "to reviewed"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'need' can be followed by a gerund with passive meaning."
+  },
+  {
+    "id": 481,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Little ___ about the consequences at that time.",
+    "options": {
+      "A": "she knows",
+      "B": "did she know",
+      "C": "she knew",
+      "D": "does she know"
+    },
+    "correct_answer": "B",
+    "explanation": "Sentences beginning with 'little' require subject-auxiliary inversion."
+  },
+  {
+    "id": 482,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Not only ___ the deadline missed, but the budget exceeded.",
+    "options": {
+      "A": "they had",
+      "B": "had they",
+      "C": "they have",
+      "D": "did they have"
+    },
+    "correct_answer": "B",
+    "explanation": "After 'not only' at the beginning, inversion is grammatically required."
+  },
+  {
+    "id": 483,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She is accustomed ___ working under pressure.",
+    "options": {
+      "A": "to",
+      "B": "with",
+      "C": "for",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "explanation": "The adjective 'accustomed' is followed by 'to' and a gerund."
+  },
+  {
+    "id": 484,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The coach had the players ___ extra practice.",
+    "options": {
+      "A": "do",
+      "B": "did",
+      "C": "doing",
+      "D": "to do"
+    },
+    "correct_answer": "A",
+    "explanation": "The causative verb 'have' can take a bare infinitive with an object."
+  },
+  {
+    "id": 485,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The explanation was so clear ___ no questions remained.",
+    "options": {
+      "A": "that",
+      "B": "to",
+      "C": "for",
+      "D": "so that"
+    },
+    "correct_answer": "A",
+    "explanation": "The structure 'so + adjective + that' is used to show result."
+  },
+  {
+    "id": 486,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "He speaks German ___ a native speaker.",
+    "options": {
+      "A": "like",
+      "B": "as",
+      "C": "such as",
+      "D": "similar"
+    },
+    "correct_answer": "A",
+    "explanation": "'Like' is used for comparison, while 'as' indicates actual role."
+  },
+  {
+    "id": 487,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The company decided to phase ___ outdated procedures.",
+    "options": {
+      "A": "off",
+      "B": "away",
+      "C": "out",
+      "D": "down"
+    },
+    "correct_answer": "C",
+    "explanation": "The phrasal verb 'phase out' means to gradually stop using something."
+  },
+  {
+    "id": 488,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She was blamed ___ the failure of the project.",
+    "options": {
+      "A": "for",
+      "B": "with",
+      "C": "on",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "explanation": "The verb 'blame' is followed by 'for' to show responsibility."
+  },
+  {
+    "id": 489,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The outcome depends ___ how well the plan is executed.",
+    "options": {
+      "A": "for",
+      "B": "on",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "B",
+    "explanation": "The verb 'depend' correctly takes the preposition 'on'."
+  },
+  {
+    "id": 490,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Only by constant practice ___ mastery achieved.",
+    "options": {
+      "A": "can be",
+      "B": "could be",
+      "C": "will be",
+      "D": "should be"
+    },
+    "correct_answer": "A",
+    "explanation": "After 'only by', inversion with the modal auxiliary 'can' is required."
+  },
+  {
+    "id": 491,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The editor had the article ___ before publication.",
+    "options": {
+      "A": "edit",
+      "B": "edited",
+      "C": "editing",
+      "D": "to edit"
+    },
+    "correct_answer": "B",
+    "explanation": "The causative structure 'have something done' uses the past participle."
+  },
+  {
+    "id": 492,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She is widely regarded ___ a leader in innovation.",
+    "options": {
+      "A": "as",
+      "B": "for",
+      "C": "to",
+      "D": "with"
+    },
+    "correct_answer": "A",
+    "explanation": "The verb 'regard' is followed by 'as' when giving an opinion."
+  },
+  {
+    "id": 493,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The instructions were clear enough ___ everyone could follow them.",
+    "options": {
+      "A": "that",
+      "B": "so that",
+      "C": "to",
+      "D": "for"
+    },
+    "correct_answer": "B",
+    "explanation": "'So that' is used to express result or purpose."
+  },
+  {
+    "id": 494,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She would rather resign than ___ her values.",
+    "options": {
+      "A": "betray",
+      "B": "betrayed",
+      "C": "betraying",
+      "D": "to betray"
+    },
+    "correct_answer": "A",
+    "explanation": "After 'would rather…than', the base verb form is required."
+  },
+  {
+    "id": 495,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Scarcely ___ the process completed when issues arose.",
+    "options": {
+      "A": "did",
+      "B": "has",
+      "C": "had",
+      "D": "was"
+    },
+    "correct_answer": "C",
+    "explanation": "After 'scarcely', inversion with past perfect tense is necessary."
+  },
+  {
+    "id": 496,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The committee recommended that the proposal ___ approved.",
+    "options": {
+      "A": "is",
+      "B": "was",
+      "C": "be",
+      "D": "has been"
+    },
+    "correct_answer": "C",
+    "explanation": "Formal recommendations use the subjunctive mood with the base verb form."
+  },
+  {
+    "id": 497,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "A number of complaints ___ received last week.",
+    "options": {
+      "A": "was",
+      "B": "is",
+      "C": "were",
+      "D": "has been"
+    },
+    "correct_answer": "C",
+    "explanation": "'A number of' is treated as plural and therefore takes a plural verb."
+  },
+  {
+    "id": 498,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "She behaves as if she ___ the situation perfectly.",
+    "options": {
+      "A": "understands",
+      "B": "understood",
+      "C": "has understood",
+      "D": "had understood"
+    },
+    "correct_answer": "B",
+    "explanation": "For unreal present situations after 'as if', the past tense is used."
+  },
+  {
+    "id": 499,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "The application needs ___ before final submission.",
+    "options": {
+      "A": "check",
+      "B": "checked",
+      "C": "checking",
+      "D": "to checked"
+    },
+    "correct_answer": "C",
+    "explanation": "The verb 'need' can be followed by a gerund with passive meaning."
+  },
+  {
+    "id": 500,
+    "subject": "English",
+    "difficulty": "Hard",
+    "question": "Not until later ___ the full impact understood.",
+    "options": {
+      "A": "we realized",
+      "B": "did we realize",
+      "C": "we did realize",
+      "D": "had we realized"
+    },
+    "correct_answer": "B",
+    "explanation": "Sentences starting with limiting expressions require subject-auxiliary inversion."
+  }
+    ]
 
 
 
