@@ -8,8 +8,7 @@ st.set_page_config(page_title="Adaptive English Test", layout="centered")
 # ---------------- LOAD QUESTIONS ----------------
 @st.cache_data
 def load_questions():
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    path = os.path.join(base_dir, "data", "english.json")
+    path = os.path.join(os.path.dirname(__file__), "data", "english.json")
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
@@ -19,44 +18,36 @@ easy_qs = [q for q in questions if q["difficulty"] == "Easy"]
 medium_qs = [q for q in questions if q["difficulty"] == "Medium"]
 hard_qs = [q for q in questions if q["difficulty"] == "Hard"]
 
-# ---------------- SESSION STATE INIT (SAFE) ----------------
-if "difficulty" not in st.session_state:
-    st.session_state.difficulty = "Easy"
+# ---------------- SESSION STATE INIT ----------------
+defaults = {
+    "level": "Easy",                 # Easy | Easy-Medium | Medium | Hard
+    "streak": 0,
+    "score": 0,
+    "total": 0,
+    "answered": False,
+    "selected_option": None,
+    "current_q": random.choice(easy_qs)
+}
 
-if "current_q" not in st.session_state:
-    st.session_state.current_q = random.choice(easy_qs)
+for k, v in defaults.items():
+    if k not in st.session_state:
+        st.session_state[k] = v
 
-if "score" not in st.session_state:
-    st.session_state.score = 0
-
-if "total" not in st.session_state:
-    st.session_state.total = 0
-
-if "correct_streak" not in st.session_state:
-    st.session_state.correct_streak = 0
-
-if "answered" not in st.session_state:
-    st.session_state.answered = False
-
-if "selected_option" not in st.session_state:
-    st.session_state.selected_option = None
-
-# ---------------- GET NEXT QUESTION ----------------
-def get_next_question():
-    if st.session_state.difficulty == "Easy":
-        pool = easy_qs
-    elif st.session_state.difficulty == "Medium":
-        pool = medium_qs
+# ---------------- QUESTION PICKER ----------------
+def get_question():
+    if st.session_state.level == "Easy":
+        return random.choice(easy_qs)
+    elif st.session_state.level in ["Easy-Medium", "Medium"]:
+        return random.choice(medium_qs)
     else:
-        pool = hard_qs
-    return random.choice(pool)
+        return random.choice(hard_qs)
 
 # ---------------- UI ----------------
 st.title("🧠 Adaptive English Test")
 
-st.write(f"**Difficulty:** {st.session_state.difficulty}")
+st.write(f"**Level:** {st.session_state.level}")
 st.write(f"**Score:** {st.session_state.score} / {st.session_state.total}")
-st.write(f"**Correct Streak:** {st.session_state.correct_streak}")
+st.write(f"**Correct Streak:** {st.session_state.streak}")
 
 q = st.session_state.current_q
 st.subheader(q["question"])
@@ -65,24 +56,24 @@ choice = st.radio(
     "Choose an answer:",
     list(q["options"].keys()),
     format_func=lambda x: f"{x}. {q['options'][x]}",
-    key="choice_radio"
+    key="radio_choice"
 )
 
 # ---------------- SUBMIT ----------------
 if st.button("Submit", disabled=st.session_state.answered):
-    st.session_state.selected_option = choice
     st.session_state.answered = True
+    st.session_state.selected_option = choice
     st.session_state.total += 1
 
     if choice == q["correct_answer"]:
         st.session_state.score += 1
-        st.session_state.correct_streak += 1
+        st.session_state.streak += 1
         st.success("✅ Correct")
     else:
-        st.session_state.correct_streak = 0
+        st.session_state.streak = 0
         st.error("❌ Wrong")
 
-# ---------------- SHOW ANSWER ----------------
+# ---------------- FEEDBACK + NEXT ----------------
 if st.session_state.answered:
     st.info(
         f"**Your Answer:** {st.session_state.selected_option}\n\n"
@@ -92,15 +83,32 @@ if st.session_state.answered:
     st.write(q["explanation"])
 
     if st.button("Next Question"):
-        # Adaptive rule: 3 correct → level up
-        if st.session_state.correct_streak >= 3:
-            if st.session_state.difficulty == "Easy":
-                st.session_state.difficulty = "Medium"
-            elif st.session_state.difficulty == "Medium":
-                st.session_state.difficulty = "Hard"
-            st.session_state.correct_streak = 0
+        # -------- ADAPTIVE LOGIC --------
+        if st.session_state.level == "Easy":
+            if st.session_state.streak == 3:
+                st.session_state.level = "Easy-Medium"
+                st.session_state.streak = 0
 
-        st.session_state.current_q = get_next_question()
+        elif st.session_state.level == "Easy-Medium":
+            if st.session_state.streak == 3:
+                st.session_state.level = "Medium"
+                st.session_state.streak = 0
+            elif st.session_state.streak == 0:
+                st.session_state.level = "Easy"
+
+        elif st.session_state.level == "Medium":
+            if st.session_state.streak == 3:
+                st.session_state.level = "Hard"
+                st.session_state.streak = 0
+            elif st.session_state.streak == 0:
+                st.session_state.level = "Easy"
+
+        elif st.session_state.level == "Hard":
+            if st.session_state.streak == 0:
+                st.session_state.level = "Medium"
+
+        # -------- RESET UI STATE --------
+        st.session_state.current_q = get_question()
         st.session_state.answered = False
         st.session_state.selected_option = None
         st.rerun()
